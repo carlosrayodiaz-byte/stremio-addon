@@ -39,14 +39,21 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY || "TU_API_KEY_AQUI";
 const PORT = process.env.PORT || 7000;
 const PUBLIC_URL = process.env.PUBLIC_URL || `http://127.0.0.1:${PORT}`;
 
-// Cargar datos verificados si existen
+// Cargar datos verificados de forma lazy (después de arrancar)
+let VERIFIED = null;
 const verifiedPath = path.join(__dirname, "movies_verified.json");
-const VERIFIED = fs.existsSync(verifiedPath)
-  ? JSON.parse(fs.readFileSync(verifiedPath, "utf8"))
-  : null;
-
-if (VERIFIED) console.log("✅ Usando movies_verified.json");
-else console.log("⚠️  Sin verificar. Ejecuta verify-movies.js");
+setTimeout(() => {
+  try {
+    if (fs.existsSync(verifiedPath)) {
+      VERIFIED = JSON.parse(fs.readFileSync(verifiedPath, "utf8"));
+      console.log("✅ Usando movies_verified.json");
+    } else {
+      console.log("⚠️  Sin verificar. Ejecuta verify-movies.js");
+    }
+  } catch (e) {
+    console.log("⚠️  Error cargando movies_verified.json:", e.message);
+  }
+}, 100);
 
 // ──────────────────────────────────────────────
 // MANIFEST
