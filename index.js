@@ -627,4 +627,17 @@ app.listen(PORT, () => {
   console.log(`   Abre tu navegador en: http://localhost:${PORT}`);
   console.log(`   O ve a Stremio → Addons → URL y pega:`);
   console.log(`   http://127.0.0.1:${PORT}/manifest.json\n`);
+
+  // Keepalive — evita que Railway hiberne el contenedor
+  if (process.env.RAILWAY_PUBLIC_DOMAIN) {
+    const keepaliveUrl = `https://${process.env.RAILWAY_PUBLIC_DOMAIN}/manifest.json`;
+    setInterval(async () => {
+      try {
+        const fetch = require("node-fetch");
+        await fetch(keepaliveUrl);
+        console.log("💓 Keepalive ok");
+      } catch (e) {}
+    }, 4 * 60 * 1000); // cada 4 minutos
+    console.log(`💓 Keepalive activo → ${keepaliveUrl}`);
+  }
 });
