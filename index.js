@@ -180,18 +180,32 @@ app.get("/catalog/:type/:id.json", async (req, res) => {
     if (id.startsWith("carlos_")) {
       const special = SPECIAL_CATALOGS.find((c) => c.id === id);
       if (special && special.key) {
-        // Usar datos verificados si existen — instantáneo, sin llamadas a TMDB
+        // Usar datos verificados si existen
         if (VERIFIED?.movies?.[special.key]) {
-          const metas = VERIFIED.movies[special.key]
-            .filter(m => m.poster)
-            .map(m => ({
-              id: m.imdb, type: "movie", name: m.title,
-              poster: m.poster, releaseInfo: m.year || "",
-              imdbRating: m.rating || null,
-            }));
-          return res.json({ metas });
+          const list = VERIFIED.movies[special.key];
+          const { tmdbFetch } = require("./tmdb");
+          const results = [];
+          const BATCH = 5;
+          for (let i = 0; i < list.length; i += BATCH) {
+            const batch = list.slice(i, i + BATCH);
+            const batchResults = await Promise.all(
+              batch.map(async (m) => {
+                try {
+                  const data = await tmdbFetch(
+                    `/find/${m.imdb}?external_source=imdb_id`,
+                    TMDB_API_KEY
+                  );
+                  const found = data.movie_results?.[0];
+                  if (found) { found.imdb_id = m.imdb; return toMeta(found); }
+                } catch (e) {}
+                return null;
+              })
+            );
+            results.push(...batchResults.filter(m => m && m.poster));
+          }
+          return res.json({ metas: results });
         }
-        // Fallback en tiempo real si no hay verified
+        // Fallback en tiempo real
         if (CARLOS_CATALOGS[special.key]) {
           const list = CARLOS_CATALOGS[special.key];
           const { tmdbFetch } = require("./tmdb");
@@ -206,12 +220,12 @@ app.get("/catalog/:type/:id.json", async (req, res) => {
                   const found = data.movie_results?.[0];
                   if (found) { found.imdb_id = m.imdb; return toMeta(found); }
                 } catch (e) {}
-                return { id: m.imdb, type: "movie", name: m.title, poster: null };
+                return null;
               })
             );
-            results.push(...batchResults);
+            results.push(...batchResults.filter(m => m && m.poster));
           }
-          return res.json({ metas: results.filter(m => m && m.poster) });
+          return res.json({ metas: results });
         }
       }
 
