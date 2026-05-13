@@ -1,0 +1,3221 @@
+{
+  "movies": {
+    "guerra": [
+      {
+        "imdb": "tt0078788",
+        "title": "Apocalypse Now"
+      },
+      {
+        "imdb": "tt0120815",
+        "title": "Salvar al soldado Ryan"
+      },
+      {
+        "imdb": "tt0253474",
+        "title": "El pianista"
+      },
+      {
+        "imdb": "tt0361748",
+        "title": "Malditos bastardos"
+      },
+      {
+        "imdb": "tt5013056",
+        "title": "Dunkerque"
+      },
+      {
+        "imdb": "tt0093058",
+        "title": "La chaqueta metálica"
+      },
+      {
+        "imdb": "tt0091763",
+        "title": "Platoon"
+      },
+      {
+        "imdb": "tt0077416",
+        "title": "El cazador"
+      },
+      {
+        "imdb": "tt12757550",
+        "title": "Рассказ о фильме «Иди и смотри»"
+      },
+      {
+        "imdb": "tt0082096",
+        "title": "El submarino (Das Boot)"
+      },
+      {
+        "imdb": "tt0108052",
+        "title": "La lista de Schindler"
+      },
+      {
+        "imdb": "tt0265086",
+        "title": "Black Hawk derribado"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt2179136",
+        "title": "El francotirador"
+      },
+      {
+        "imdb": "tt2119532",
+        "title": "Hasta el último hombre"
+      },
+      {
+        "imdb": "tt8579674",
+        "title": "1917"
+      },
+      {
+        "imdb": "tt2713180",
+        "title": "Corazones de acero"
+      },
+      {
+        "imdb": "tt6924650",
+        "title": "Midway"
+      },
+      {
+        "imdb": "tt0887912",
+        "title": "En tierra hostil"
+      },
+      {
+        "imdb": "tt0066206",
+        "title": "Patton"
+      },
+      {
+        "imdb": "tt0050212",
+        "title": "El puente sobre el río Kwai"
+      },
+      {
+        "imdb": "tt0075784",
+        "title": "Un puente lejano"
+      },
+      {
+        "imdb": "tt0215750",
+        "title": "Enemigo a las puertas"
+      },
+      {
+        "imdb": "tt0108211",
+        "title": "Stalingrado"
+      },
+      {
+        "imdb": "tt0498380",
+        "title": "Cartas desde Iwo Jima"
+      },
+      {
+        "imdb": "tt0097441",
+        "title": "Tiempos de gloria"
+      },
+      {
+        "imdb": "tt0112573",
+        "title": "Braveheart"
+      },
+      {
+        "imdb": "tt0332452",
+        "title": "Troya"
+      },
+      {
+        "imdb": "tt0172495",
+        "title": "Gladiator"
+      }
+    ],
+    "egipto": [
+      {
+        "imdb": "tt0052618",
+        "title": "Ben-Hur"
+      },
+      {
+        "imdb": "tt0056937",
+        "title": "Cleopatra"
+      },
+      {
+        "imdb": "tt0416449",
+        "title": "300"
+      },
+      {
+        "imdb": "tt0332452",
+        "title": "Troya"
+      },
+      {
+        "imdb": "tt0346491",
+        "title": "Alejandro Magno"
+      },
+      {
+        "imdb": "tt0172495",
+        "title": "Gladiator"
+      },
+      {
+        "imdb": "tt0054331",
+        "title": "Espartaco"
+      },
+      {
+        "imdb": "tt1186830",
+        "title": "Ágora"
+      },
+      {
+        "imdb": "tt1528100",
+        "title": "Exodus: Dioses y reyes"
+      },
+      {
+        "imdb": "tt0120794",
+        "title": "El príncipe de Egipto"
+      },
+      {
+        "imdb": "tt0120616",
+        "title": "La momia"
+      },
+      {
+        "imdb": "tt0320661",
+        "title": "El reino de los cielos"
+      },
+      {
+        "imdb": "tt0250223",
+        "title": "Astérix y Obélix: Misión Cleopatra"
+      },
+      {
+        "imdb": "tt2638144",
+        "title": "Ben-Hur"
+      },
+      {
+        "imdb": "tt0277296",
+        "title": "El rey escorpión"
+      },
+      {
+        "imdb": "tt2404233",
+        "title": "Dioses de Egipto"
+      }
+    ],
+    "vikingos": [
+      {
+        "imdb": "tt11138512",
+        "title": "El hombre del norte"
+      },
+      {
+        "imdb": "tt0862467",
+        "title": "Valhalla Rising"
+      },
+      {
+        "imdb": "tt0120657",
+        "title": "El guerrero nº 13"
+      },
+      {
+        "imdb": "tt0052365",
+        "title": "Los Vikingos"
+      },
+      {
+        "imdb": "tt0442933",
+        "title": "Beowulf"
+      },
+      {
+        "imdb": "tt0082198",
+        "title": "Conan, el bárbaro"
+      },
+      {
+        "imdb": "tt0800369",
+        "title": "Thor"
+      },
+      {
+        "imdb": "tt3950790",
+        "title": "El último reino perdido"
+      },
+      {
+        "imdb": "tt0892769",
+        "title": "Cómo entrenar a tu dragón"
+      },
+      {
+        "imdb": "tt0462465",
+        "title": "Outlander"
+      },
+      {
+        "imdb": "tt1233301",
+        "title": "Templario"
+      },
+      {
+        "imdb": "tt2290553",
+        "title": "Northmen: Los Vikingos"
+      },
+      {
+        "imdb": "tt0064000",
+        "title": "Alfredo el Grande"
+      }
+    ],
+    "edad_media": [
+      {
+        "imdb": "tt0112573",
+        "title": "Braveheart"
+      },
+      {
+        "imdb": "tt0320661",
+        "title": "El reino de los cielos"
+      },
+      {
+        "imdb": "tt0091605",
+        "title": "El nombre de la rosa"
+      },
+      {
+        "imdb": "tt0183790",
+        "title": "Destino de caballero"
+      },
+      {
+        "imdb": "tt1233301",
+        "title": "Templario"
+      },
+      {
+        "imdb": "tt0955308",
+        "title": "Robin Hood"
+      },
+      {
+        "imdb": "tt0082348",
+        "title": "Excalibur"
+      },
+      {
+        "imdb": "tt0054847",
+        "title": "El Cid"
+      },
+      {
+        "imdb": "tt0071853",
+        "title": "Los caballeros de la mesa cuadrada y sus locos seguidores"
+      },
+      {
+        "imdb": "tt4244994",
+        "title": "El último duelo"
+      },
+      {
+        "imdb": "tt0110357",
+        "title": "El rey león"
+      },
+      {
+        "imdb": "tt6679794",
+        "title": "El rey proscrito"
+      },
+      {
+        "imdb": "tt1181791",
+        "title": "Black Death"
+      },
+      {
+        "imdb": "tt0395119",
+        "title": "Alatriste"
+      },
+      {
+        "imdb": "tt0097499",
+        "title": "Enrique V"
+      },
+      {
+        "imdb": "tt0151137",
+        "title": "Juana de Arco"
+      },
+      {
+        "imdb": "tt0063227",
+        "title": "El león en invierno"
+      },
+      {
+        "imdb": "tt0057877",
+        "title": "Becket"
+      }
+    ],
+    "wwii": [
+      {
+        "imdb": "tt0108052",
+        "title": "La lista de Schindler"
+      },
+      {
+        "imdb": "tt0120815",
+        "title": "Salvar al soldado Ryan"
+      },
+      {
+        "imdb": "tt0253474",
+        "title": "El pianista"
+      },
+      {
+        "imdb": "tt0361748",
+        "title": "Malditos bastardos"
+      },
+      {
+        "imdb": "tt5013056",
+        "title": "Dunkerque"
+      },
+      {
+        "imdb": "tt2084970",
+        "title": "The Imitation Game (Descifrando Enigma)"
+      },
+      {
+        "imdb": "tt2713180",
+        "title": "Corazones de acero"
+      },
+      {
+        "imdb": "tt0082096",
+        "title": "El submarino (Das Boot)"
+      },
+      {
+        "imdb": "tt0057115",
+        "title": "La gran evasión"
+      },
+      {
+        "imdb": "tt0363163",
+        "title": "El hundimiento"
+      },
+      {
+        "imdb": "tt0118799",
+        "title": "La vida es bella"
+      },
+      {
+        "imdb": "tt0498380",
+        "title": "Cartas desde Iwo Jima"
+      },
+      {
+        "imdb": "tt2119532",
+        "title": "Hasta el último hombre"
+      },
+      {
+        "imdb": "tt6924650",
+        "title": "Midway"
+      },
+      {
+        "imdb": "tt0215750",
+        "title": "Enemigo a las puertas"
+      },
+      {
+        "imdb": "tt3682448",
+        "title": "El puente de los espías"
+      },
+      {
+        "imdb": "tt0066206",
+        "title": "Patton"
+      },
+      {
+        "imdb": "tt0056197",
+        "title": "El día más largo"
+      },
+      {
+        "imdb": "tt0108211",
+        "title": "Stalingrado"
+      },
+      {
+        "imdb": "tt12757550",
+        "title": "Рассказ о фильме «Иди и смотри»"
+      }
+    ],
+    "geopolitica": [
+      {
+        "imdb": "tt1340800",
+        "title": "El topo"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt0405094",
+        "title": "La vida de los otros"
+      },
+      {
+        "imdb": "tt0365737",
+        "title": "Syriana"
+      },
+      {
+        "imdb": "tt0758774",
+        "title": "Red de mentiras"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt3682448",
+        "title": "El puente de los espías"
+      },
+      {
+        "imdb": "tt2084970",
+        "title": "The Imitation Game (Descifrando Enigma)"
+      },
+      {
+        "imdb": "tt0472062",
+        "title": "La guerra de Charlie Wilson"
+      },
+      {
+        "imdb": "tt0387131",
+        "title": "El jardinero fiel"
+      },
+      {
+        "imdb": "tt0433383",
+        "title": "Buenas noches, y buena suerte"
+      },
+      {
+        "imdb": "tt0074119",
+        "title": "Todos los hombres del presidente"
+      },
+      {
+        "imdb": "tt3774114",
+        "title": "Snowden"
+      },
+      {
+        "imdb": "tt5431890",
+        "title": "Secretos de estado"
+      },
+      {
+        "imdb": "tt6294822",
+        "title": "Los archivos del Pentágono"
+      },
+      {
+        "imdb": "tt4044364",
+        "title": "Citizenfour"
+      },
+      {
+        "imdb": "tt0119942",
+        "title": "Primary Colors"
+      },
+      {
+        "imdb": "tt0465538",
+        "title": "Michael Clayton"
+      },
+      {
+        "imdb": "tt8236336",
+        "title": "The Report"
+      }
+    ],
+    "historia": [
+      {
+        "imdb": "tt0172495",
+        "title": "Gladiator"
+      },
+      {
+        "imdb": "tt0108052",
+        "title": "La lista de Schindler"
+      },
+      {
+        "imdb": "tt0112573",
+        "title": "Braveheart"
+      },
+      {
+        "imdb": "tt0068646",
+        "title": "El padrino"
+      },
+      {
+        "imdb": "tt0056172",
+        "title": "Lawrence de Arabia"
+      },
+      {
+        "imdb": "tt0062622",
+        "title": "2001: Una odisea del espacio"
+      },
+      {
+        "imdb": "tt0078788",
+        "title": "Apocalypse Now"
+      },
+      {
+        "imdb": "tt0253474",
+        "title": "El pianista"
+      },
+      {
+        "imdb": "tt0052618",
+        "title": "Ben-Hur"
+      },
+      {
+        "imdb": "tt0054331",
+        "title": "Espartaco"
+      },
+      {
+        "imdb": "tt0054847",
+        "title": "El Cid"
+      },
+      {
+        "imdb": "tt0072684",
+        "title": "Barry Lyndon"
+      },
+      {
+        "imdb": "tt2024544",
+        "title": "12 años de esclavitud"
+      },
+      {
+        "imdb": "tt0443272",
+        "title": "Lincoln"
+      },
+      {
+        "imdb": "tt0083987",
+        "title": "Gandhi"
+      },
+      {
+        "imdb": "tt0093389",
+        "title": "El último emperador"
+      },
+      {
+        "imdb": "tt0086879",
+        "title": "Amadeus"
+      },
+      {
+        "imdb": "tt0320661",
+        "title": "El reino de los cielos"
+      },
+      {
+        "imdb": "tt0332452",
+        "title": "Troya"
+      },
+      {
+        "imdb": "tt0346491",
+        "title": "Alejandro Magno"
+      }
+    ],
+    "guerra_fria": [
+      {
+        "imdb": "tt1340800",
+        "title": "El topo"
+      },
+      {
+        "imdb": "tt3682448",
+        "title": "El puente de los espías"
+      },
+      {
+        "imdb": "tt0405094",
+        "title": "La vida de los otros"
+      },
+      {
+        "imdb": "tt2084970",
+        "title": "The Imitation Game (Descifrando Enigma)"
+      },
+      {
+        "imdb": "tt0433383",
+        "title": "Buenas noches, y buena suerte"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt0057012",
+        "title": "¿Teléfono rojo? Volamos hacia Moscú"
+      },
+      {
+        "imdb": "tt0056218",
+        "title": "El mensajero del miedo"
+      },
+      {
+        "imdb": "tt0073802",
+        "title": "Los tres días del Cóndor"
+      },
+      {
+        "imdb": "tt0059749",
+        "title": "El espía que surgió del frío"
+      },
+      {
+        "imdb": "tt0343737",
+        "title": "El buen pastor"
+      },
+      {
+        "imdb": "tt3774114",
+        "title": "Snowden"
+      },
+      {
+        "imdb": "tt4044364",
+        "title": "Citizenfour"
+      },
+      {
+        "imdb": "tt4686844",
+        "title": "La muerte de Stalin"
+      },
+      {
+        "imdb": "tt0301357",
+        "title": "Good bye, Lenin!"
+      },
+      {
+        "imdb": "tt0472062",
+        "title": "La guerra de Charlie Wilson"
+      },
+      {
+        "imdb": "tt5431890",
+        "title": "Secretos de estado"
+      }
+    ],
+    "espionaje": [
+      {
+        "imdb": "tt1340800",
+        "title": "El topo"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt3682448",
+        "title": "El puente de los espías"
+      },
+      {
+        "imdb": "tt0405094",
+        "title": "La vida de los otros"
+      },
+      {
+        "imdb": "tt2084970",
+        "title": "The Imitation Game (Descifrando Enigma)"
+      },
+      {
+        "imdb": "tt0365737",
+        "title": "Syriana"
+      },
+      {
+        "imdb": "tt0758774",
+        "title": "Red de mentiras"
+      },
+      {
+        "imdb": "tt0343737",
+        "title": "El buen pastor"
+      },
+      {
+        "imdb": "tt0073802",
+        "title": "Los tres días del Cóndor"
+      },
+      {
+        "imdb": "tt0074119",
+        "title": "Todos los hombres del presidente"
+      },
+      {
+        "imdb": "tt3774114",
+        "title": "Snowden"
+      },
+      {
+        "imdb": "tt4044364",
+        "title": "Citizenfour"
+      },
+      {
+        "imdb": "tt5431890",
+        "title": "Secretos de estado"
+      },
+      {
+        "imdb": "tt0472062",
+        "title": "La guerra de Charlie Wilson"
+      },
+      {
+        "imdb": "tt0387131",
+        "title": "El jardinero fiel"
+      },
+      {
+        "imdb": "tt0465538",
+        "title": "Michael Clayton"
+      },
+      {
+        "imdb": "tt8236336",
+        "title": "The Report"
+      },
+      {
+        "imdb": "tt6294822",
+        "title": "Los archivos del Pentágono"
+      }
+    ],
+    "conflictos_modernos": [
+      {
+        "imdb": "tt0265086",
+        "title": "Black Hawk derribado"
+      },
+      {
+        "imdb": "tt0887912",
+        "title": "En tierra hostil"
+      },
+      {
+        "imdb": "tt2179136",
+        "title": "El francotirador"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt0758774",
+        "title": "Red de mentiras"
+      },
+      {
+        "imdb": "tt0365737",
+        "title": "Syriana"
+      },
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt0395169",
+        "title": "Hotel Rwanda"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt0387131",
+        "title": "El jardinero fiel"
+      },
+      {
+        "imdb": "tt4172430",
+        "title": "13 Horas: Los soldados secretos de Bengasi"
+      },
+      {
+        "imdb": "tt2119532",
+        "title": "Hasta el último hombre"
+      },
+      {
+        "imdb": "tt1091191",
+        "title": "El único superviviente"
+      },
+      {
+        "imdb": "tt2057392",
+        "title": "Espías desde el cielo"
+      },
+      {
+        "imdb": "tt1559549",
+        "title": "Restrepo"
+      },
+      {
+        "imdb": "tt0472062",
+        "title": "La guerra de Charlie Wilson"
+      },
+      {
+        "imdb": "tt0475276",
+        "title": "United 93"
+      },
+      {
+        "imdb": "tt0469641",
+        "title": "World Trade Center"
+      },
+      {
+        "imdb": "tt2005151",
+        "title": "Juego de armas"
+      }
+    ],
+    "terrorismo": [
+      {
+        "imdb": "tt0475276",
+        "title": "United 93"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt1341167",
+        "title": "Four Lions"
+      },
+      {
+        "imdb": "tt0445620",
+        "title": "Paradise Now"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt0887912",
+        "title": "En tierra hostil"
+      },
+      {
+        "imdb": "tt2179136",
+        "title": "El francotirador"
+      },
+      {
+        "imdb": "tt0758774",
+        "title": "Red de mentiras"
+      },
+      {
+        "imdb": "tt4172430",
+        "title": "13 Horas: Los soldados secretos de Bengasi"
+      },
+      {
+        "imdb": "tt0365737",
+        "title": "Syriana"
+      },
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt0395169",
+        "title": "Hotel Rwanda"
+      },
+      {
+        "imdb": "tt0265086",
+        "title": "Black Hawk derribado"
+      },
+      {
+        "imdb": "tt1321865",
+        "title": "Carlos"
+      },
+      {
+        "imdb": "tt0280491",
+        "title": "Domingo sangriento"
+      },
+      {
+        "imdb": "tt0107207",
+        "title": "En el nombre del padre"
+      },
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
+      },
+      {
+        "imdb": "tt0469641",
+        "title": "World Trade Center"
+      },
+      {
+        "imdb": "tt2057392",
+        "title": "Espías desde el cielo"
+      },
+      {
+        "imdb": "tt1091191",
+        "title": "El único superviviente"
+      }
+    ],
+    "vietnam": [
+      {
+        "imdb": "tt0078788",
+        "title": "Apocalypse Now"
+      },
+      {
+        "imdb": "tt0091763",
+        "title": "Platoon"
+      },
+      {
+        "imdb": "tt0093058",
+        "title": "La chaqueta metálica"
+      },
+      {
+        "imdb": "tt0093105",
+        "title": "Good Morning, Vietnam"
+      },
+      {
+        "imdb": "tt0096969",
+        "title": "Nacido el cuatro de julio"
+      },
+      {
+        "imdb": "tt0077416",
+        "title": "El cazador"
+      },
+      {
+        "imdb": "tt0258068",
+        "title": "El americano impasible"
+      },
+      {
+        "imdb": "tt0093137",
+        "title": "La colina de la hamburguesa"
+      },
+      {
+        "imdb": "tt0277434",
+        "title": "Cuando éramos soldados"
+      },
+      {
+        "imdb": "tt0077617",
+        "title": "La patrulla"
+      },
+      {
+        "imdb": "tt0097027",
+        "title": "Corazones de hierro"
+      },
+      {
+        "imdb": "tt0462504",
+        "title": "Rescate al amanecer"
+      },
+      {
+        "imdb": "tt0087553",
+        "title": "Los gritos del silencio"
+      },
+      {
+        "imdb": "tt0084335",
+        "title": "Desaparecido"
+      },
+      {
+        "imdb": "tt0104507",
+        "title": "Indochina"
+      },
+      {
+        "imdb": "tt0086617",
+        "title": "El año que vivimos peligrosamente"
+      },
+      {
+        "imdb": "tt0083944",
+        "title": "Acorralado"
+      },
+      {
+        "imdb": "tt0099005",
+        "title": "Air America"
+      },
+      {
+        "imdb": "tt0099587",
+        "title": "El vuelo del Intruder"
+      }
+    ],
+    "oriente_medio": [
+      {
+        "imdb": "tt0056172",
+        "title": "Lawrence de Arabia"
+      },
+      {
+        "imdb": "tt0365737",
+        "title": "Syriana"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt0887912",
+        "title": "En tierra hostil"
+      },
+      {
+        "imdb": "tt2179136",
+        "title": "El francotirador"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt0758774",
+        "title": "Red de mentiras"
+      },
+      {
+        "imdb": "tt0265086",
+        "title": "Black Hawk derribado"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt1185616",
+        "title": "Vals con Bashir"
+      },
+      {
+        "imdb": "tt0445620",
+        "title": "Paradise Now"
+      },
+      {
+        "imdb": "tt3258772",
+        "title": "Adam & Omar"
+      },
+      {
+        "imdb": "tt7048622",
+        "title": "El insulto"
+      },
+      {
+        "imdb": "tt8267604",
+        "title": "Cafarnaúm"
+      },
+      {
+        "imdb": "tt0808417",
+        "title": "Persépolis"
+      },
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
+      },
+      {
+        "imdb": "tt0475276",
+        "title": "United 93"
+      },
+      {
+        "imdb": "tt0472062",
+        "title": "La guerra de Charlie Wilson"
+      },
+      {
+        "imdb": "tt3170902",
+        "title": "Lobo"
+      }
+    ],
+    "revoluciones": [
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt0107207",
+        "title": "En el nombre del padre"
+      },
+      {
+        "imdb": "tt0117039",
+        "title": "Michael Collins"
+      },
+      {
+        "imdb": "tt0892255",
+        "title": "Che: El argentino"
+      },
+      {
+        "imdb": "tt0078788",
+        "title": "Apocalypse Now"
+      },
+      {
+        "imdb": "tt0091530",
+        "title": "La misión"
+      },
+      {
+        "imdb": "tt0103594",
+        "title": "1492: La conquista del paraíso"
+      },
+      {
+        "imdb": "tt0068182",
+        "title": "Aguirre, la cólera de Dios"
+      },
+      {
+        "imdb": "tt0065234",
+        "title": "Z"
+      },
+      {
+        "imdb": "tt0084335",
+        "title": "Desaparecido"
+      },
+      {
+        "imdb": "tt0477348",
+        "title": "No es país para viejos"
+      },
+      {
+        "imdb": "tt12757550",
+        "title": "Рассказ о фильме «Иди и смотри»"
+      },
+      {
+        "imdb": "tt0086617",
+        "title": "El año que vivimos peligrosamente"
+      },
+      {
+        "imdb": "tt0091886",
+        "title": "Salvador"
+      },
+      {
+        "imdb": "tt0280491",
+        "title": "Domingo sangriento"
+      },
+      {
+        "imdb": "tt0114671",
+        "title": "Tierra y libertad"
+      },
+      {
+        "imdb": "tt0460989",
+        "title": "El viento que agita la cebada"
+      },
+      {
+        "imdb": "tt0808417",
+        "title": "Persépolis"
+      }
+    ],
+    "western": [
+      {
+        "imdb": "tt0060196",
+        "title": "El bueno, el feo y el malo"
+      },
+      {
+        "imdb": "tt0064116",
+        "title": "Hasta que llegó su hora"
+      },
+      {
+        "imdb": "tt0059578",
+        "title": "La muerte tenía un precio"
+      },
+      {
+        "imdb": "tt0058461",
+        "title": "Por un puñado de dólares"
+      },
+      {
+        "imdb": "tt0105695",
+        "title": "Sin perdón"
+      },
+      {
+        "imdb": "tt1853728",
+        "title": "Django desencadenado"
+      },
+      {
+        "imdb": "tt3460252",
+        "title": "Los odiosos ocho"
+      },
+      {
+        "imdb": "tt1403865",
+        "title": "Valor de ley"
+      },
+      {
+        "imdb": "tt0477348",
+        "title": "No es país para viejos"
+      },
+      {
+        "imdb": "tt0108358",
+        "title": "Tombstone: La leyenda de Wyatt Earp"
+      },
+      {
+        "imdb": "tt0064115",
+        "title": "Dos hombres y un destino"
+      },
+      {
+        "imdb": "tt0381849",
+        "title": "El tren de las 3:10"
+      },
+      {
+        "imdb": "tt0099348",
+        "title": "Bailando con lobos"
+      },
+      {
+        "imdb": "tt0104691",
+        "title": "El último mohicano"
+      },
+      {
+        "imdb": "tt0111756",
+        "title": "Wyatt Earp"
+      },
+      {
+        "imdb": "tt0075029",
+        "title": "El fuera de la ley"
+      },
+      {
+        "imdb": "tt0046303",
+        "title": "Raíces profundas"
+      },
+      {
+        "imdb": "tt0044706",
+        "title": "Solo ante el peligro"
+      },
+      {
+        "imdb": "tt0065214",
+        "title": "Grupo salvaje"
+      },
+      {
+        "imdb": "tt0070518",
+        "title": "Pat Garrett y Billy el Niño"
+      }
+    ],
+    "mafia_crimen": [
+      {
+        "imdb": "tt0068646",
+        "title": "El padrino"
+      },
+      {
+        "imdb": "tt0071562",
+        "title": "El Padrino Parte II"
+      },
+      {
+        "imdb": "tt0099685",
+        "title": "Uno de los nuestros"
+      },
+      {
+        "imdb": "tt0112641",
+        "title": "Casino"
+      },
+      {
+        "imdb": "tt0110912",
+        "title": "Pulp Fiction"
+      },
+      {
+        "imdb": "tt0105236",
+        "title": "Reservoir Dogs"
+      },
+      {
+        "imdb": "tt0317248",
+        "title": "Ciudad de Dios"
+      },
+      {
+        "imdb": "tt0086250",
+        "title": "El precio del poder"
+      },
+      {
+        "imdb": "tt0407887",
+        "title": "Infiltrados"
+      },
+      {
+        "imdb": "tt0477348",
+        "title": "No es país para viejos"
+      },
+      {
+        "imdb": "tt0116282",
+        "title": "Fargo"
+      },
+      {
+        "imdb": "tt0208092",
+        "title": "Snatch. Cerdos y diamantes"
+      },
+      {
+        "imdb": "tt0120735",
+        "title": "Lock & Stock"
+      },
+      {
+        "imdb": "tt1302006",
+        "title": "El irlandés"
+      },
+      {
+        "imdb": "tt0087843",
+        "title": "Érase una vez en América"
+      },
+      {
+        "imdb": "tt0119008",
+        "title": "Donnie Brasco"
+      },
+      {
+        "imdb": "tt0765429",
+        "title": "American Gangster"
+      },
+      {
+        "imdb": "tt0101516",
+        "title": "Bugsy"
+      },
+      {
+        "imdb": "tt0257044",
+        "title": "Camino a la perdición"
+      },
+      {
+        "imdb": "tt1764234",
+        "title": "Mátalos suavemente"
+      }
+    ],
+    "finanzas_codicia": [
+      {
+        "imdb": "tt0993846",
+        "title": "El lobo de Wall Street"
+      },
+      {
+        "imdb": "tt1596363",
+        "title": "La gran apuesta"
+      },
+      {
+        "imdb": "tt1615147",
+        "title": "Margin Call"
+      },
+      {
+        "imdb": "tt0094291",
+        "title": "Wall Street"
+      },
+      {
+        "imdb": "tt0181984",
+        "title": "El informador"
+      },
+      {
+        "imdb": "tt1285016",
+        "title": "La red social"
+      },
+      {
+        "imdb": "tt1645089",
+        "title": "Inside Job"
+      },
+      {
+        "imdb": "tt1742683",
+        "title": "Malas noticias"
+      },
+      {
+        "imdb": "tt1210166",
+        "title": "Moneyball: Rompiendo las reglas"
+      },
+      {
+        "imdb": "tt1016268",
+        "title": "Enron, los tipos que estafaron a América"
+      },
+      {
+        "imdb": "tt0086465",
+        "title": "Entre pillos anda el juego"
+      },
+      {
+        "imdb": "tt0104348",
+        "title": "Glengarry Glen Ross (Éxito a cualquier precio)"
+      },
+      {
+        "imdb": "tt0102609",
+        "title": "Con el dinero de los demás"
+      },
+      {
+        "imdb": "tt0131566",
+        "title": "El gran farol"
+      },
+      {
+        "imdb": "tt1232207",
+        "title": "Capitalismo: Una historia de amor"
+      },
+      {
+        "imdb": "tt3532216",
+        "title": "Barry Seal: el traficante"
+      },
+      {
+        "imdb": "tt2005151",
+        "title": "Juego de armas"
+      },
+      {
+        "imdb": "tt4276820",
+        "title": "El fundador"
+      }
+    ],
+    "narcotrafico_drogas": [
+      {
+        "imdb": "tt3397884",
+        "title": "Sicario"
+      },
+      {
+        "imdb": "tt0181865",
+        "title": "Traffic"
+      },
+      {
+        "imdb": "tt0086250",
+        "title": "El precio del poder"
+      },
+      {
+        "imdb": "tt0180093",
+        "title": "Réquiem por un sueño"
+      },
+      {
+        "imdb": "tt0221027",
+        "title": "Blow"
+      },
+      {
+        "imdb": "tt0117951",
+        "title": "Trainspotting"
+      },
+      {
+        "imdb": "tt0317248",
+        "title": "Ciudad de Dios"
+      },
+      {
+        "imdb": "tt3532216",
+        "title": "Barry Seal: el traficante"
+      },
+      {
+        "imdb": "tt2005151",
+        "title": "Juego de armas"
+      },
+      {
+        "imdb": "tt5052474",
+        "title": "Sicario: El día del soldado"
+      },
+      {
+        "imdb": "tt1615065",
+        "title": "Salvajes"
+      },
+      {
+        "imdb": "tt7959026",
+        "title": "Mula"
+      },
+      {
+        "imdb": "tt1216491",
+        "title": "Matar al mensajero"
+      },
+      {
+        "imdb": "tt0390221",
+        "title": "María, llena eres de gracia"
+      },
+      {
+        "imdb": "tt1127715",
+        "title": "Sin nombre"
+      },
+      {
+        "imdb": "tt0245712",
+        "title": "Amores perros"
+      },
+      {
+        "imdb": "tt1692190",
+        "title": "El infierno"
+      },
+      {
+        "imdb": "tt1911600",
+        "title": "Miss Bala"
+      }
+    ],
+    "psicologia_manipulacion": [
+      {
+        "imdb": "tt0443706",
+        "title": "Zodiac"
+      },
+      {
+        "imdb": "tt0102926",
+        "title": "El silencio de los corderos"
+      },
+      {
+        "imdb": "tt1392214",
+        "title": "Prisioneros"
+      },
+      {
+        "imdb": "tt0114369",
+        "title": "Seven"
+      },
+      {
+        "imdb": "tt0364569",
+        "title": "Old Boy"
+      },
+      {
+        "imdb": "tt1130884",
+        "title": "Shutter Island"
+      },
+      {
+        "imdb": "tt2267998",
+        "title": "Perdida"
+      },
+      {
+        "imdb": "tt0119174",
+        "title": "The Game"
+      },
+      {
+        "imdb": "tt0137523",
+        "title": "El club de la lucha"
+      },
+      {
+        "imdb": "tt0209144",
+        "title": "Memento"
+      },
+      {
+        "imdb": "tt0144084",
+        "title": "American Psycho"
+      },
+      {
+        "imdb": "tt2582802",
+        "title": "Whiplash"
+      },
+      {
+        "imdb": "tt0947798",
+        "title": "Cisne negro"
+      },
+      {
+        "imdb": "tt7784604",
+        "title": "Hereditary"
+      },
+      {
+        "imdb": "tt4263482",
+        "title": "La bruja"
+      },
+      {
+        "imdb": "tt8772262",
+        "title": "Midsommar"
+      },
+      {
+        "imdb": "tt0268978",
+        "title": "Una mente maravillosa"
+      },
+      {
+        "imdb": "tt0470752",
+        "title": "Ex Machina"
+      },
+      {
+        "imdb": "tt5052448",
+        "title": "Déjame salir"
+      }
+    ],
+    "cine_coreano": [
+      {
+        "imdb": "tt0364569",
+        "title": "Old Boy"
+      },
+      {
+        "imdb": "tt0353969",
+        "title": "Memories of Murder (Crónica de un asesino en serie)"
+      },
+      {
+        "imdb": "tt0468492",
+        "title": "The Host"
+      },
+      {
+        "imdb": "tt5700672",
+        "title": "Train to Busan"
+      },
+      {
+        "imdb": "tt1121977",
+        "title": "Madres e hijas"
+      },
+      {
+        "imdb": "tt0456912",
+        "title": "A Bittersweet Life"
+      },
+      {
+        "imdb": "tt1588170",
+        "title": "Encontré al diablo"
+      },
+      {
+        "imdb": "tt13950614",
+        "title": "El extraño"
+      },
+      {
+        "imdb": "tt0260991",
+        "title": "Joint Security Area (JSA)"
+      },
+      {
+        "imdb": "tt7282468",
+        "title": "Burning"
+      },
+      {
+        "imdb": "tt3967856",
+        "title": "Okja"
+      },
+      {
+        "imdb": "tt4016934",
+        "title": "La doncella"
+      },
+      {
+        "imdb": "tt0365376",
+        "title": "Dos hermanas"
+      },
+      {
+        "imdb": "tt0374546",
+        "title": "Primavera, verano, otoño, invierno... y primavera"
+      },
+      {
+        "imdb": "tt0320193",
+        "title": "Oasis"
+      },
+      {
+        "imdb": "tt1543665",
+        "title": "Poetry Man"
+      },
+      {
+        "imdb": "tt0817225",
+        "title": "Secret Sunshine"
+      },
+      {
+        "imdb": "tt1527788",
+        "title": "El hombre sin pasado"
+      },
+      {
+        "imdb": "tt3449252",
+        "title": "Emergencia para veteranos de guerra: la línea de la vida"
+      }
+    ],
+    "cine_japones": [
+      {
+        "imdb": "tt0047478",
+        "title": "Los siete samuráis"
+      },
+      {
+        "imdb": "tt0042876",
+        "title": "Rashomon"
+      },
+      {
+        "imdb": "tt0044741",
+        "title": "Vivir"
+      },
+      {
+        "imdb": "tt0245429",
+        "title": "El viaje de Chihiro"
+      },
+      {
+        "imdb": "tt0119698",
+        "title": "La princesa Mononoke"
+      },
+      {
+        "imdb": "tt0096283",
+        "title": "Mi vecino Totoro"
+      },
+      {
+        "imdb": "tt0347149",
+        "title": "El castillo ambulante"
+      },
+      {
+        "imdb": "tt0089881",
+        "title": "Ran"
+      },
+      {
+        "imdb": "tt0080979",
+        "title": "Kagemusha, la sombra del guerrero"
+      },
+      {
+        "imdb": "tt0095327",
+        "title": "La tumba de las luciérnagas"
+      },
+      {
+        "imdb": "tt5311514",
+        "title": "Your Name."
+      },
+      {
+        "imdb": "tt0094625",
+        "title": "Akira"
+      },
+      {
+        "imdb": "tt1436045",
+        "title": "13 asesinos"
+      },
+      {
+        "imdb": "tt8075192",
+        "title": "Un asunto de familia"
+      },
+      {
+        "imdb": "tt0325710",
+        "title": "El último samurái"
+      },
+      {
+        "imdb": "tt0363226",
+        "title": "Zatoichi"
+      },
+      {
+        "imdb": "tt0119250",
+        "title": "Hana-Bi: Flores de fuego"
+      },
+      {
+        "imdb": "tt0108188",
+        "title": "Sonatine"
+      },
+      {
+        "imdb": "tt0266308",
+        "title": "Battle Royale"
+      },
+      {
+        "imdb": "tt0235198",
+        "title": "Audition"
+      }
+    ],
+    "cine_iran": [
+      {
+        "imdb": "tt3522566",
+        "title": "از ایران، یک جدایی"
+      },
+      {
+        "imdb": "tt5186714",
+        "title": "El viajante"
+      },
+      {
+        "imdb": "tt1360860",
+        "title": "A propósito de Elly"
+      },
+      {
+        "imdb": "tt0120265",
+        "title": "El sabor de las cerezas"
+      },
+      {
+        "imdb": "tt0209463",
+        "title": "El viento nos llevará"
+      },
+      {
+        "imdb": "tt0099531",
+        "title": "Extreme Close-Up"
+      },
+      {
+        "imdb": "tt0808417",
+        "title": "Persépolis"
+      },
+      {
+        "imdb": "tt20205236",
+        "title": "Los osos no existen"
+      },
+      {
+        "imdb": "tt0075314",
+        "title": "Taxi Driver"
+      },
+      {
+        "imdb": "tt1020773",
+        "title": "Copia certificada"
+      },
+      {
+        "imdb": "tt0112445",
+        "title": "El globo blanco"
+      },
+      {
+        "imdb": "tt0118849",
+        "title": "Los niños del paraíso"
+      },
+      {
+        "imdb": "tt0250125",
+        "title": "زیر پوست شهر"
+      },
+      {
+        "imdb": "tt0424227",
+        "title": "Las tortugas también vuelan"
+      },
+      {
+        "imdb": "tt1185616",
+        "title": "Vals con Bashir"
+      },
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt0156901",
+        "title": "La Manzana"
+      },
+      {
+        "imdb": "tt8267604",
+        "title": "Cafarnaúm"
+      },
+      {
+        "imdb": "tt0093342",
+        "title": "¿Dónde está la casa de mi amigo?"
+      }
+    ],
+    "cine_arabe": [
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt0445620",
+        "title": "Paradise Now"
+      },
+      {
+        "imdb": "tt3258772",
+        "title": "Adam & Omar"
+      },
+      {
+        "imdb": "tt7048622",
+        "title": "El insulto"
+      },
+      {
+        "imdb": "tt8267604",
+        "title": "Cafarnaúm"
+      },
+      {
+        "imdb": "tt1185616",
+        "title": "Vals con Bashir"
+      },
+      {
+        "imdb": "tt2125423",
+        "title": "5 cámaras rotas"
+      },
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
+      },
+      {
+        "imdb": "tt0056172",
+        "title": "Lawrence de Arabia"
+      },
+      {
+        "imdb": "tt0808417",
+        "title": "Persépolis"
+      },
+      {
+        "imdb": "tt3170902",
+        "title": "Lobo"
+      },
+      {
+        "imdb": "tt2258858",
+        "title": "La bicicleta verde"
+      },
+      {
+        "imdb": "tt2486682",
+        "title": "The Square (El Midan)"
+      },
+      {
+        "imdb": "tt0365737",
+        "title": "Syriana"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt0157183",
+        "title": "West Beirut"
+      },
+      {
+        "imdb": "tt0825236",
+        "title": "Caramel"
+      },
+      {
+        "imdb": "tt1172963",
+        "title": "Los limoneros"
+      },
+      {
+        "imdb": "tt1077262",
+        "title": "Ajami"
+      }
+    ],
+    "cine_italiano": [
+      {
+        "imdb": "tt0060196",
+        "title": "El bueno, el feo y el malo"
+      },
+      {
+        "imdb": "tt0064116",
+        "title": "Hasta que llegó su hora"
+      },
+      {
+        "imdb": "tt0087843",
+        "title": "Érase una vez en América"
+      },
+      {
+        "imdb": "tt0095765",
+        "title": "Cinema Paradiso"
+      },
+      {
+        "imdb": "tt0118799",
+        "title": "La vida es bella"
+      },
+      {
+        "imdb": "tt2358891",
+        "title": "La gran belleza"
+      },
+      {
+        "imdb": "tt0053779",
+        "title": "La dolce vita"
+      },
+      {
+        "imdb": "tt0056801",
+        "title": "Fellini, ocho y medio"
+      },
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
+      },
+      {
+        "imdb": "tt0040522",
+        "title": "Ladrón de bicicletas"
+      },
+      {
+        "imdb": "tt0038890",
+        "title": "Roma, ciudad abierta"
+      },
+      {
+        "imdb": "tt0166788",
+        "title": "Satyricon"
+      },
+      {
+        "imdb": "tt0071129",
+        "title": "Amarcord"
+      },
+      {
+        "imdb": "tt1023490",
+        "title": "Il Divo"
+      },
+      {
+        "imdb": "tt0065889",
+        "title": "Investigación sobre un ciudadano libre de toda sospecha"
+      },
+      {
+        "imdb": "tt0065571",
+        "title": "El conformista"
+      },
+      {
+        "imdb": "tt0067445",
+        "title": "Muerte en Venecia"
+      },
+      {
+        "imdb": "tt0093389",
+        "title": "El último emperador"
+      },
+      {
+        "imdb": "tt0050783",
+        "title": "Las noches de Cabiria"
+      },
+      {
+        "imdb": "tt0045274",
+        "title": "Umberto D."
+      }
+    ],
+    "cine_espanol": [
+      {
+        "imdb": "tt0185125",
+        "title": "Todo sobre mi madre"
+      },
+      {
+        "imdb": "tt0125659",
+        "title": "Abre los ojos"
+      },
+      {
+        "imdb": "tt0457430",
+        "title": "El laberinto del fauno"
+      },
+      {
+        "imdb": "tt0369702",
+        "title": "Mar adentro"
+      },
+      {
+        "imdb": "tt0441909",
+        "title": "Volver"
+      },
+      {
+        "imdb": "tt1186830",
+        "title": "Ágora"
+      },
+      {
+        "imdb": "tt0230600",
+        "title": "Los otros"
+      },
+      {
+        "imdb": "tt1038988",
+        "title": "[REC]"
+      },
+      {
+        "imdb": "tt2382011",
+        "title": "The Platform Master"
+      },
+      {
+        "imdb": "tt6198946",
+        "title": "Bosque maldito"
+      },
+      {
+        "imdb": "tt0070040",
+        "title": "El espíritu de la colmena"
+      },
+      {
+        "imdb": "tt0055601",
+        "title": "Viridiana"
+      },
+      {
+        "imdb": "tt0103791",
+        "title": "Belle Époque"
+      },
+      {
+        "imdb": "tt0243794",
+        "title": "El Bola"
+      },
+      {
+        "imdb": "tt0319769",
+        "title": "Los lunes al sol"
+      },
+      {
+        "imdb": "tt0477348",
+        "title": "No es país para viejos"
+      },
+      {
+        "imdb": "tt0395119",
+        "title": "Alatriste"
+      },
+      {
+        "imdb": "tt0809533",
+        "title": "Las 13 rosas"
+      },
+      {
+        "imdb": "tt1649419",
+        "title": "Lo imposible"
+      }
+    ],
+    "cine_latinoamericano": [
+      {
+        "imdb": "tt0317248",
+        "title": "Ciudad de Dios"
+      },
+      {
+        "imdb": "tt0245712",
+        "title": "Amores perros"
+      },
+      {
+        "imdb": "tt1305806",
+        "title": "El secreto de sus ojos"
+      },
+      {
+        "imdb": "tt0245574",
+        "title": "Y tu mamá también"
+      },
+      {
+        "imdb": "tt0457430",
+        "title": "El laberinto del fauno"
+      },
+      {
+        "imdb": "tt0861739",
+        "title": "Tropa de élite"
+      },
+      {
+        "imdb": "tt6155172",
+        "title": "Roma"
+      },
+      {
+        "imdb": "tt3011894",
+        "title": "Relatos salvajes"
+      },
+      {
+        "imdb": "tt0318462",
+        "title": "Diarios de motocicleta"
+      },
+      {
+        "imdb": "tt0140888",
+        "title": "Estación central de Brasil"
+      },
+      {
+        "imdb": "tt4285496",
+        "title": "El abrazo de la serpiente"
+      },
+      {
+        "imdb": "tt0477348",
+        "title": "No es país para viejos"
+      },
+      {
+        "imdb": "tt0120679",
+        "title": "Frida"
+      },
+      {
+        "imdb": "tt0374569",
+        "title": "Che: Guerrilla"
+      },
+      {
+        "imdb": "tt0058604",
+        "title": "Soy Cuba"
+      },
+      {
+        "imdb": "tt0086213",
+        "title": "Rue cases-nègres"
+      },
+      {
+        "imdb": "tt0390221",
+        "title": "María, llena eres de gracia"
+      },
+      {
+        "imdb": "tt1127715",
+        "title": "Sin nombre"
+      },
+      {
+        "imdb": "tt1692190",
+        "title": "El infierno"
+      },
+      {
+        "imdb": "tt1911600",
+        "title": "Miss Bala"
+      }
+    ],
+    "cine_aleman": [
+      {
+        "imdb": "tt0082096",
+        "title": "El submarino (Das Boot)"
+      },
+      {
+        "imdb": "tt0405094",
+        "title": "La vida de los otros"
+      },
+      {
+        "imdb": "tt0363163",
+        "title": "El hundimiento"
+      },
+      {
+        "imdb": "tt0017136",
+        "title": "Metrópolis"
+      },
+      {
+        "imdb": "tt0022100",
+        "title": "M, el vampiro de Düsseldorf"
+      },
+      {
+        "imdb": "tt0013442",
+        "title": "Nosferatu"
+      },
+      {
+        "imdb": "tt0078875",
+        "title": "El tambor de hojalata"
+      },
+      {
+        "imdb": "tt0068182",
+        "title": "Aguirre, la cólera de Dios"
+      },
+      {
+        "imdb": "tt0083946",
+        "title": "Fitzcarraldo"
+      },
+      {
+        "imdb": "tt27531279",
+        "title": "Así se hizo 'Sin novedad en el frente'"
+      },
+      {
+        "imdb": "tt4048272",
+        "title": "Toni Erdmann"
+      },
+      {
+        "imdb": "tt1149362",
+        "title": "La cinta blanca"
+      },
+      {
+        "imdb": "tt0426578",
+        "title": "Sophie Scholl: Los últimos días"
+      },
+      {
+        "imdb": "tt0055031",
+        "title": "¿Vencedores o vencidos? (El juicio de Núremberg)"
+      },
+      {
+        "imdb": "tt0765432",
+        "title": "R.A.F. Facción del ejército rojo"
+      },
+      {
+        "imdb": "tt0813547",
+        "title": "Los falsificadores"
+      },
+      {
+        "imdb": "tt0976051",
+        "title": "The Reader (El lector)"
+      },
+      {
+        "imdb": "tt0130827",
+        "title": "Corre Lola, corre"
+      },
+      {
+        "imdb": "tt0301357",
+        "title": "Good bye, Lenin!"
+      },
+      {
+        "imdb": "tt4686844",
+        "title": "La muerte de Stalin"
+      }
+    ],
+    "cine_frances": [
+      {
+        "imdb": "tt0053198",
+        "title": "Los cuatrocientos golpes"
+      },
+      {
+        "imdb": "tt0053472",
+        "title": "Al final de la escapada"
+      },
+      {
+        "imdb": "tt0211915",
+        "title": "Amelie"
+      },
+      {
+        "imdb": "tt0028950",
+        "title": "La gran ilusión"
+      },
+      {
+        "imdb": "tt0031885",
+        "title": "La regla del juego"
+      },
+      {
+        "imdb": "tt0290673",
+        "title": "Irreversible"
+      },
+      {
+        "imdb": "tt2278871",
+        "title": "La vida de Adèle"
+      },
+      {
+        "imdb": "tt0988108",
+        "title": "Klass (The Class)"
+      },
+      {
+        "imdb": "tt0387898",
+        "title": "Caché (Escondido)"
+      },
+      {
+        "imdb": "tt0119683",
+        "title": "Los miserables: La leyenda nunca muere"
+      },
+      {
+        "imdb": "tt1675434",
+        "title": "Intocable"
+      },
+      {
+        "imdb": "tt1655442",
+        "title": "The Artist"
+      },
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt0113247",
+        "title": "El odio"
+      },
+      {
+        "imdb": "tt0048021",
+        "title": "Rififi"
+      },
+      {
+        "imdb": "tt0062229",
+        "title": "El silencio de un hombre"
+      },
+      {
+        "imdb": "tt0053459",
+        "title": "Los ojos sin rostro"
+      }
+    ],
+    "cine_escandinavo": [
+      {
+        "imdb": "tt0050976",
+        "title": "El séptimo sello"
+      },
+      {
+        "imdb": "tt0460405",
+        "title": "Bakomfilm Smultronstället"
+      },
+      {
+        "imdb": "tt0060827",
+        "title": "Persona"
+      },
+      {
+        "imdb": "tt0069467",
+        "title": "Gritos y susurros"
+      },
+      {
+        "imdb": "tt0083922",
+        "title": "Fanny y Alexander"
+      },
+      {
+        "imdb": "tt0168629",
+        "title": "Bailar en la oscuridad"
+      },
+      {
+        "imdb": "tt1527186",
+        "title": "Melancolía"
+      },
+      {
+        "imdb": "tt4995790",
+        "title": "The Square"
+      },
+      {
+        "imdb": "tt2121382",
+        "title": "Fuerza mayor"
+      },
+      {
+        "imdb": "tt8772262",
+        "title": "Midsommar"
+      },
+      {
+        "imdb": "tt5501104",
+        "title": "Border"
+      },
+      {
+        "imdb": "tt0366174",
+        "title": "Anacondas: La cacería por la orquídea sangrienta"
+      },
+      {
+        "imdb": "tt1614989",
+        "title": "Headhunters"
+      },
+      {
+        "imdb": "tt1132620",
+        "title": "Millennium 1: Los hombres que no amaban a las mujeres"
+      },
+      {
+        "imdb": "tt1139797",
+        "title": "Déjame entrar"
+      },
+      {
+        "imdb": "tt4433110",
+        "title": "Eine königliche Affäre"
+      },
+      {
+        "imdb": "tt0169554",
+        "title": "Andrew Lloyd Webber: The Royal Albert Hall Celebration"
+      },
+      {
+        "imdb": "tt1740707",
+        "title": "Troll Hunter"
+      },
+      {
+        "imdb": "tt0119375",
+        "title": "Insomnia"
+      },
+      {
+        "imdb": "tt6742252",
+        "title": "El culpable"
+      }
+    ],
+    "kubrick": [
+      {
+        "imdb": "tt0062622",
+        "title": "2001: Una odisea del espacio"
+      },
+      {
+        "imdb": "tt0066921",
+        "title": "La naranja mecánica"
+      },
+      {
+        "imdb": "tt0081505",
+        "title": "El resplandor"
+      },
+      {
+        "imdb": "tt0093058",
+        "title": "La chaqueta metálica"
+      },
+      {
+        "imdb": "tt0120663",
+        "title": "Eyes Wide Shut"
+      },
+      {
+        "imdb": "tt0072684",
+        "title": "Barry Lyndon"
+      },
+      {
+        "imdb": "tt0050825",
+        "title": "Senderos de gloria"
+      },
+      {
+        "imdb": "tt0054331",
+        "title": "Espartaco"
+      },
+      {
+        "imdb": "tt0057012",
+        "title": "¿Teléfono rojo? Volamos hacia Moscú"
+      },
+      {
+        "imdb": "tt0056193",
+        "title": "Lolita"
+      },
+      {
+        "imdb": "tt0049406",
+        "title": "Atraco perfecto"
+      },
+      {
+        "imdb": "tt0048254",
+        "title": "El beso del asesino"
+      }
+    ],
+    "nolan": [
+      {
+        "imdb": "tt0468569",
+        "title": "El caballero oscuro"
+      },
+      {
+        "imdb": "tt1375666",
+        "title": "Origen"
+      },
+      {
+        "imdb": "tt0816692",
+        "title": "Interstellar"
+      },
+      {
+        "imdb": "tt5013056",
+        "title": "Dunkerque"
+      },
+      {
+        "imdb": "tt0209144",
+        "title": "Memento"
+      },
+      {
+        "imdb": "tt15398776",
+        "title": "Oppenheimer"
+      },
+      {
+        "imdb": "tt0482571",
+        "title": "El truco final (El prestigio)"
+      },
+      {
+        "imdb": "tt0372784",
+        "title": "Batman Begins"
+      },
+      {
+        "imdb": "tt6723592",
+        "title": "Tenet"
+      },
+      {
+        "imdb": "tt1345836",
+        "title": "El caballero oscuro: La leyenda renace"
+      },
+      {
+        "imdb": "tt0278504",
+        "title": "Insomnio"
+      },
+      {
+        "imdb": "tt0154506",
+        "title": "Following"
+      }
+    ],
+    "scorsese": [
+      {
+        "imdb": "tt0099685",
+        "title": "Uno de los nuestros"
+      },
+      {
+        "imdb": "tt0075314",
+        "title": "Taxi Driver"
+      },
+      {
+        "imdb": "tt0081398",
+        "title": "Toro salvaje"
+      },
+      {
+        "imdb": "tt0407887",
+        "title": "Infiltrados"
+      },
+      {
+        "imdb": "tt0112641",
+        "title": "Casino"
+      },
+      {
+        "imdb": "tt0993846",
+        "title": "El lobo de Wall Street"
+      },
+      {
+        "imdb": "tt1130884",
+        "title": "Shutter Island"
+      },
+      {
+        "imdb": "tt0217505",
+        "title": "Gangs of New York"
+      },
+      {
+        "imdb": "tt0338751",
+        "title": "El aviador"
+      },
+      {
+        "imdb": "tt1302006",
+        "title": "El irlandés"
+      },
+      {
+        "imdb": "tt0101540",
+        "title": "El cabo del miedo"
+      },
+      {
+        "imdb": "tt5537002",
+        "title": "Los asesinos de la luna"
+      },
+      {
+        "imdb": "tt0070379",
+        "title": "Malas calles"
+      },
+      {
+        "imdb": "tt0490215",
+        "title": "Silencio"
+      },
+      {
+        "imdb": "tt0085794",
+        "title": "El rey de la comedia"
+      }
+    ],
+    "tarantino": [
+      {
+        "imdb": "tt0110912",
+        "title": "Pulp Fiction"
+      },
+      {
+        "imdb": "tt0105236",
+        "title": "Reservoir Dogs"
+      },
+      {
+        "imdb": "tt0266697",
+        "title": "Kill Bill: Volumen 1"
+      },
+      {
+        "imdb": "tt0378194",
+        "title": "Kill Bill: Volumen 2"
+      },
+      {
+        "imdb": "tt1853728",
+        "title": "Django desencadenado"
+      },
+      {
+        "imdb": "tt0361748",
+        "title": "Malditos bastardos"
+      },
+      {
+        "imdb": "tt3460252",
+        "title": "Los odiosos ocho"
+      },
+      {
+        "imdb": "tt7131622",
+        "title": "Érase una vez en… Hollywood"
+      },
+      {
+        "imdb": "tt0119396",
+        "title": "Jackie Brown"
+      }
+    ],
+    "spielberg": [
+      {
+        "imdb": "tt0108052",
+        "title": "La lista de Schindler"
+      },
+      {
+        "imdb": "tt0120815",
+        "title": "Salvar al soldado Ryan"
+      },
+      {
+        "imdb": "tt0107290",
+        "title": "Jurassic Park (Parque Jurásico)"
+      },
+      {
+        "imdb": "tt0082971",
+        "title": "En busca del arca perdida"
+      },
+      {
+        "imdb": "tt0083866",
+        "title": "E.T. el extraterrestre"
+      },
+      {
+        "imdb": "tt0073195",
+        "title": "Tiburón"
+      },
+      {
+        "imdb": "tt0118607",
+        "title": "Amistad"
+      },
+      {
+        "imdb": "tt0443272",
+        "title": "Lincoln"
+      },
+      {
+        "imdb": "tt3682448",
+        "title": "El puente de los espías"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt6294822",
+        "title": "Los archivos del Pentágono"
+      },
+      {
+        "imdb": "tt0181689",
+        "title": "Minority Report"
+      },
+      {
+        "imdb": "tt0264464",
+        "title": "Atrápame si puedes"
+      },
+      {
+        "imdb": "tt0097576",
+        "title": "Indiana Jones y la última cruzada"
+      },
+      {
+        "imdb": "tt14208870",
+        "title": "Los Fabelman"
+      }
+    ],
+    "kurosawa": [
+      {
+        "imdb": "tt0047478",
+        "title": "Los siete samuráis"
+      },
+      {
+        "imdb": "tt0042876",
+        "title": "Rashomon"
+      },
+      {
+        "imdb": "tt0044741",
+        "title": "Vivir"
+      },
+      {
+        "imdb": "tt0089881",
+        "title": "Ran"
+      },
+      {
+        "imdb": "tt0080979",
+        "title": "Kagemusha, la sombra del guerrero"
+      },
+      {
+        "imdb": "tt0055630",
+        "title": "Yojimbo (El mercenario)"
+      },
+      {
+        "imdb": "tt0056443",
+        "title": "Sanjuro"
+      },
+      {
+        "imdb": "tt0057565",
+        "title": "El infierno del odio"
+      },
+      {
+        "imdb": "tt0051808",
+        "title": "La fortaleza escondida"
+      },
+      {
+        "imdb": "tt0071411",
+        "title": "Dersu Uzala (El cazador)"
+      },
+      {
+        "imdb": "tt0097351",
+        "title": "Campo de sueños"
+      },
+      {
+        "imdb": "tt0101991",
+        "title": "Rapsodia en agosto"
+      }
+    ],
+    "villeneuve": [
+      {
+        "imdb": "tt1255953",
+        "title": "Incendios"
+      },
+      {
+        "imdb": "tt1392214",
+        "title": "Prisioneros"
+      },
+      {
+        "imdb": "tt2316411",
+        "title": "Enemy"
+      },
+      {
+        "imdb": "tt3397884",
+        "title": "Sicario"
+      },
+      {
+        "imdb": "tt2543164",
+        "title": "La llegada"
+      },
+      {
+        "imdb": "tt1856101",
+        "title": "Blade Runner 2049"
+      },
+      {
+        "imdb": "tt1160419",
+        "title": "Dune"
+      },
+      {
+        "imdb": "tt15239678",
+        "title": "Dune: Parte dos"
+      }
+    ],
+    "fincher": [
+      {
+        "imdb": "tt0137523",
+        "title": "El club de la lucha"
+      },
+      {
+        "imdb": "tt0114369",
+        "title": "Seven"
+      },
+      {
+        "imdb": "tt2267998",
+        "title": "Perdida"
+      },
+      {
+        "imdb": "tt0443706",
+        "title": "Zodiac"
+      },
+      {
+        "imdb": "tt1285016",
+        "title": "La red social"
+      },
+      {
+        "imdb": "tt0119174",
+        "title": "The Game"
+      },
+      {
+        "imdb": "tt1568346",
+        "title": "Millennium: Los hombres que no amaban a las mujeres"
+      },
+      {
+        "imdb": "tt10618286",
+        "title": "Mank"
+      },
+      {
+        "imdb": "tt0258000",
+        "title": "La habitación del pánico"
+      },
+      {
+        "imdb": "tt0103644",
+        "title": "Alien³"
+      }
+    ]
+  },
+  "series": {
+    "series_geopolitica": [
+      {
+        "imdb": "tt0306414",
+        "title": "Bajo escucha",
+        "year": "2002",
+        "poster": "https://image.tmdb.org/t/p/w500/taMUpRAnpZzi5yEaDQ45KhKGRyu.jpg",
+        "rating": "8.6"
+      },
+      {
+        "imdb": "tt1796960",
+        "title": "Homeland",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+        "rating": "7.6"
+      },
+      {
+        "imdb": "tt2149175",
+        "title": "The Americans",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+        "rating": "7.9"
+      },
+      {
+        "imdb": "tt2707408",
+        "title": "Narcos",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt4565380",
+        "title": "Fauda",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt4192998",
+        "title": "Occupied",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/m3456areBpd37FdDIfLHJoelI3F.jpg",
+        "rating": "7.1"
+      },
+      {
+        "imdb": "tt1399664",
+        "title": "El infiltrado",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/mpegR0goWmr1uBZ5DaPGIQDvMHg.jpg",
+        "rating": "7.7"
+      },
+      {
+        "imdb": "tt5296406",
+        "title": "Sucesor designado",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/plmuDppjb6xZ7hwKWWDeOQxmvew.jpg",
+        "rating": "7.1"
+      },
+      {
+        "imdb": "tt5753856",
+        "title": "Dark",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/hRP7N2uI0pokxnkcMFONoOZnxbv.jpg",
+        "rating": "8.4"
+      },
+      {
+        "imdb": "tt4786824",
+        "title": "The Crown",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZMVKJoWK5KfxaQA8BwpfOEYKKy.jpg",
+        "rating": "8.2"
+      },
+      {
+        "imdb": "tt5290382",
+        "title": "MINDHUNTER",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/eg2eepJtJeRtCZEUJvIYyb2PnYD.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt1526318",
+        "title": "Borgen",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/5HNjAPzaeCWBrC76GZHk4cy2beX.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt6474236",
+        "title": "The Looming Tower",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/tfnHCDJISHE44lLD0H3kn0lTs64.jpg",
+        "rating": "7.3"
+      },
+      {
+        "imdb": "tt7493974",
+        "title": "Guardaespaldas",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/mrOJeCkpnWnVX10hm4h10LuSzr2.jpg",
+        "rating": "7.8"
+      },
+      {
+        "imdb": "tt6271042",
+        "title": "McMafia",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
+        "rating": "7.3"
+      },
+      {
+        "imdb": "tt5952634",
+        "title": "El espía",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w500/AtN6kXdzRUgDS1dHjKFkKplbsj0.jpg",
+        "rating": "7.4"
+      },
+      {
+        "imdb": "tt10577736",
+        "title": "Teherán",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w500/daeA95EXBB7AZP3JJWKpmMUAP1X.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt15350824",
+        "title": "Munich Games",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w500/ap67kIekmu6HOUt3NBuLyaOjB6j.jpg",
+        "rating": "6.3"
+      },
+      {
+        "imdb": "tt0285331",
+        "title": "24",
+        "year": "2001",
+        "poster": "https://image.tmdb.org/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "rating": "7.8"
+      },
+      {
+        "imdb": "tt0200276",
+        "title": "El ala oeste de la Casa Blanca",
+        "year": "1999",
+        "poster": "https://image.tmdb.org/t/p/w500/l9Nu2p9kg9xdEqxvrMpv483EFoH.jpg",
+        "rating": "8.3"
+      },
+      {
+        "imdb": "tt0098825",
+        "title": "House of cards I (Castillo de naipes)",
+        "year": "1990",
+        "poster": "https://image.tmdb.org/t/p/w500/rkCSSr8iWecBWPszKenxnytetLs.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt4445154",
+        "title": "Deutschland 83",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/4fuXvK2RSPrDupmiidke165u7lt.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt4445154",
+        "title": "Deutschland 83",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/4fuXvK2RSPrDupmiidke165u7lt.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt0285333",
+        "title": "Alias",
+        "year": "2001",
+        "poster": "https://image.tmdb.org/t/p/w500/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
+        "rating": "6.8"
+      },
+      {
+        "imdb": "tt5875444",
+        "title": "Slow Horses",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w500/glcBuLW6NkZytmcpkkETsFXuVYj.jpg",
+        "rating": "8.0"
+      },
+      {
+        "imdb": "tt0411008",
+        "title": "Perdidos",
+        "year": "2004",
+        "poster": "https://image.tmdb.org/t/p/w500/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+        "rating": "8.0"
+      },
+      {
+        "imdb": "tt17491088",
+        "title": "La diplomática",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w500/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+        "rating": "7.5"
+      }
+    ],
+    "series_guerra": [
+      {
+        "imdb": "tt0185906",
+        "title": "Hermanos de sangre",
+        "year": "2001",
+        "poster": "https://image.tmdb.org/t/p/w500/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
+        "rating": "8.6"
+      },
+      {
+        "imdb": "tt0374463",
+        "title": "The Pacific",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+        "rating": "7.8"
+      },
+      {
+        "imdb": "tt0995832",
+        "title": "Generation Kill",
+        "year": "2008",
+        "poster": "https://image.tmdb.org/t/p/w500/wiihoYOODwh82xVzPoiaztlg6c9.jpg",
+        "rating": "7.9"
+      },
+      {
+        "imdb": "tt2708480",
+        "title": "The Terror",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+        "rating": "7.3"
+      },
+      {
+        "imdb": "tt1829891",
+        "title": "Hospital de campaña",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/gdsjYtMBiHLIajWrqyQPO0x4mWl.jpg",
+        "rating": "7.1"
+      },
+      {
+        "imdb": "tt0068098",
+        "title": "M*A*S*H",
+        "year": "1972",
+        "poster": "https://image.tmdb.org/t/p/w500/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+        "rating": "7.9"
+      },
+      {
+        "imdb": "tt1492179",
+        "title": "Contraataque",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+        "rating": "7.4"
+      },
+      {
+        "imdb": "tt4218618",
+        "title": "The Bastard Executioner",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/apnKjgxmc2NtyRuII0TSQzqCs5D.jpg",
+        "rating": "5.8"
+      },
+      {
+        "imdb": "tt0460690",
+        "title": "The Unit",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w500/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg",
+        "rating": "7.3"
+      },
+      {
+        "imdb": "tt5541338",
+        "title": "Six",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/3UUbbelbbHGo0AEHK7DQbJMosnJ.jpg",
+        "rating": "7.3"
+      },
+      {
+        "imdb": "tt6473344",
+        "title": "SEAL Team",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+        "rating": "8.0"
+      },
+      {
+        "imdb": "tt5675620",
+        "title": "Marvel - The Punisher",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt3815412",
+        "title": "Our Girl",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/4RL153WVbce7i9oemTzzBiD6B1Q.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt0773262",
+        "title": "Dexter",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "rating": "8.2"
+      },
+      {
+        "imdb": "tt6957252",
+        "title": "Star Wars Rebels Recon",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/s12URqkqOauAGHQvPvz0pPBQCmq.jpg",
+        "rating": "8.9"
+      },
+      {
+        "imdb": "tt7612548",
+        "title": "The Outpost",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/xlfgeE8mhEhBbkdfYeSGv0KXRhw.jpg",
+        "rating": "7.4"
+      },
+      {
+        "imdb": "tt2640044",
+        "title": "Los amos del aire",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w500/pHTOwJIUN1L4h8sACkpkthy01ei.jpg",
+        "rating": "7.8"
+      },
+      {
+        "imdb": "tt1520211",
+        "title": "The Walking Dead",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt0805663",
+        "title": "Jericho",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w500/a57H9UsS388Av2LSLKO9inNmY7j.jpg",
+        "rating": "7.4"
+      },
+      {
+        "imdb": "tt4574334",
+        "title": "Stranger Things",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
+        "rating": "8.6"
+      },
+      {
+        "imdb": "tt6474236",
+        "title": "The Looming Tower",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/tfnHCDJISHE44lLD0H3kn0lTs64.jpg",
+        "rating": "7.3"
+      },
+      {
+        "imdb": "tt0101121",
+        "title": "Homefront",
+        "year": "1991",
+        "poster": "https://image.tmdb.org/t/p/w500/xiM4k9BhDuIz2bFtBOQQeP6YgUF.jpg",
+        "rating": "5.6"
+      }
+    ],
+    "series_historia": [
+      {
+        "imdb": "tt0384766",
+        "title": "Roma",
+        "year": "2005",
+        "poster": "https://image.tmdb.org/t/p/w500/2eqyFY5rjtMiEQEj6IG9J8z9AGz.jpg",
+        "rating": "8.2"
+      },
+      {
+        "imdb": "tt2306299",
+        "title": "Vikingos",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w500/x0BOmMjIslyH9ZP5h2eMOdaZ8QX.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt4179452",
+        "title": "The Last Kingdom",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/pnM3U7NMJeFNpzhpYP10zBdIuPM.jpg",
+        "rating": "8.3"
+      },
+      {
+        "imdb": "tt2442560",
+        "title": "Peaky Blinders",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w500/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+        "rating": "8.5"
+      },
+      {
+        "imdb": "tt0348914",
+        "title": "Deadwood",
+        "year": "2004",
+        "poster": "https://image.tmdb.org/t/p/w500/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt2189461",
+        "title": "Marco Polo",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/syYTHCBvFlobr8eJjQMKAjrn9yV.jpg",
+        "rating": "7.4"
+      },
+      {
+        "imdb": "tt1442449",
+        "title": "Spartacus",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+        "rating": "8.0"
+      },
+      {
+        "imdb": "tt2181503",
+        "title": "Spartacus: Blood and Sand - The Motion Comic",
+        "year": "2009",
+        "poster": "https://image.tmdb.org/t/p/w500/u0rd13I9ZyfDrzOoj3ao2SUxIhj.jpg",
+        "rating": "7.9"
+      },
+      {
+        "imdb": "tt3006802",
+        "title": "Outlander",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
+        "rating": "8.2"
+      },
+      {
+        "imdb": "tt0472027",
+        "title": "John Adams",
+        "year": "2008",
+        "poster": "https://image.tmdb.org/t/p/w500/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg",
+        "rating": "7.7"
+      },
+      {
+        "imdb": "tt2543328",
+        "title": "TURN: Espías de Washington",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/AehTUycX0VSvCkOOkZzurLnjHsS.jpg",
+        "rating": "7.1"
+      },
+      {
+        "imdb": "tt4786824",
+        "title": "The Crown",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZMVKJoWK5KfxaQA8BwpfOEYKKy.jpg",
+        "rating": "8.2"
+      },
+      {
+        "imdb": "tt1606375",
+        "title": "Downton Abbey",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/7HgDYRYjym4BwbhKaqTQq771SKb.jpg",
+        "rating": "8.1"
+      },
+      {
+        "imdb": "tt0979432",
+        "title": "Boardwalk Empire",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg",
+        "rating": "8.0"
+      },
+      {
+        "imdb": "tt2375692",
+        "title": "Black Sails",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
+        "rating": "7.6"
+      },
+      {
+        "imdb": "tt1740299",
+        "title": "El hombre en el castillo",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/4IljeGfUK3QpYxDUJKyi7K411Ro.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt1699748",
+        "title": "Infierno sobre ruedas",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/ckC9pL9yeYpOoK5aJ7GbYYWheK7.jpg",
+        "rating": "7.6"
+      },
+      {
+        "imdb": "tt1985443",
+        "title": "Hatfields & McCoys",
+        "year": "2012",
+        "poster": "https://image.tmdb.org/t/p/w500/fPoUoQ7epbUkpCwzW1bkWswVAXp.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt2094262",
+        "title": "Da Vinci's Demons",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w500/b1ej0NGRJsjDde01svUG7xo6Rp6.jpg",
+        "rating": "7.5"
+      },
+      {
+        "imdb": "tt5057130",
+        "title": "Los medici: Señores de Florencia",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/u9cIJH2AWMeBxQMEal4q5Rlgrtu.jpg",
+        "rating": "7.7"
+      },
+      {
+        "imdb": "tt1453159",
+        "title": "Los pilares de la tierra",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/hj8HAsdHaSMcfQ4CmaGuCGEvqXw.jpg",
+        "rating": "7.7"
+      },
+      {
+        "imdb": "tt1453159",
+        "title": "Los pilares de la tierra",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/hj8HAsdHaSMcfQ4CmaGuCGEvqXw.jpg",
+        "rating": "7.7"
+      },
+      {
+        "imdb": "tt3830558",
+        "title": "Versailles",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w500/fMqCRNpc2FadD0n7vJLRmlS0aEt.jpg",
+        "rating": "7.7"
+      },
+      {
+        "imdb": "tt2788316",
+        "title": "Shōgun",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w500/uIoDvVOQaKjSfz2oihkVS8M7l1v.jpg",
+        "rating": "8.4"
+      }
+    ]
+  }
+}
