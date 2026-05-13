@@ -39,6 +39,15 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY || "TU_API_KEY_AQUI";
 const PORT = process.env.PORT || 7000;
 const PUBLIC_URL = process.env.PUBLIC_URL || `http://127.0.0.1:${PORT}`;
 
+// Cargar datos verificados si existen
+const verifiedPath = path.join(__dirname, "movies_verified.json");
+const VERIFIED = fs.existsSync(verifiedPath)
+  ? JSON.parse(fs.readFileSync(verifiedPath, "utf8"))
+  : null;
+
+if (VERIFIED) console.log("✅ Usando movies_verified.json");
+else console.log("⚠️  Sin verificar. Ejecuta verify-movies.js");
+
 // ──────────────────────────────────────────────
 // MANIFEST
 // ──────────────────────────────────────────────
@@ -156,36 +165,43 @@ app.get("/catalog/:type/:id.json", async (req, res) => {
   try {
     let movies = [];
 
-    // ── Catálogos Carlos (hardcoded, IMDB IDs directos) ──
+    // ── Catálogos Carlos ──
     if (id.startsWith("carlos_")) {
       const special = SPECIAL_CATALOGS.find((c) => c.id === id);
-      if (special && special.key && CARLOS_CATALOGS[special.key]) {
-        const list = CARLOS_CATALOGS[special.key];
-        const { tmdbFetch } = require("./tmdb");
-        const results = [];
-        const BATCH = 5; // 5 en paralelo, luego el siguiente lote
-
-        for (let i = 0; i < list.length; i += BATCH) {
-          const batch = list.slice(i, i + BATCH);
-          const batchResults = await Promise.all(
-            batch.map(async (m) => {
-              try {
-                const data = await tmdbFetch(
-                  `/find/${m.imdb}?external_source=imdb_id`,
-                  TMDB_API_KEY
-                );
-                const found = data.movie_results?.[0];
-                if (found) {
-                  found.imdb_id = m.imdb;
-                  return toMeta(found);
-                }
-              } catch (e) {}
-              return { id: m.imdb, type: "movie", name: m.title, poster: null };
-            })
-          );
-          results.push(...batchResults);
+      if (special && special.key) {
+        // Usar datos verificados si existen — instantáneo, sin llamadas a TMDB
+        if (VERIFIED?.movies?.[special.key]) {
+          const metas = VERIFIED.movies[special.key]
+            .filter(m => m.poster)
+            .map(m => ({
+              id: m.imdb, type: "movie", name: m.title,
+              poster: m.poster, releaseInfo: m.year || "",
+              imdbRating: m.rating || null,
+            }));
+          return res.json({ metas });
         }
-        return res.json({ metas: results.filter((m) => m && m.poster) });
+        // Fallback en tiempo real si no hay verified
+        if (CARLOS_CATALOGS[special.key]) {
+          const list = CARLOS_CATALOGS[special.key];
+          const { tmdbFetch } = require("./tmdb");
+          const results = [];
+          const BATCH = 5;
+          for (let i = 0; i < list.length; i += BATCH) {
+            const batch = list.slice(i, i + BATCH);
+            const batchResults = await Promise.all(
+              batch.map(async (m) => {
+                try {
+                  const data = await tmdbFetch(`/find/${m.imdb}?external_source=imdb_id`, TMDB_API_KEY);
+                  const found = data.movie_results?.[0];
+                  if (found) { found.imdb_id = m.imdb; return toMeta(found); }
+                } catch (e) {}
+                return { id: m.imdb, type: "movie", name: m.title, poster: null };
+              })
+            );
+            results.push(...batchResults);
+          }
+          return res.json({ metas: results.filter(m => m && m.poster) });
+        }
       }
 
     // ── Marvel MCU ──
