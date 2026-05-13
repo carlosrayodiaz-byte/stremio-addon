@@ -1,0 +1,14 @@
+{
+  "name": "stremio-curated-catalogs",
+  "version": "1.0.0",
+  "description": "Stremio addon con catálogos curados: Marvel, sagas, top IMDB, etc.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "cors": "^2.8.5"
+  }
+}
