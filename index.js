@@ -91,6 +91,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Health check — Railway lo usa para verificar que el proceso está vivo
+app.get("/health", (req, res) => res.send("OK"));
+app.get("/", (req, res, next) => { res.set("X-Health", "ok"); next(); });
+
 // Manifest
 app.get("/manifest.json", (req, res) => {
   res.json(MANIFEST);
