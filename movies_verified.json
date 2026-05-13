@@ -3890,6 +3890,10 @@
       {
         "imdb": "tt0027869",
         "title": "El último mohicano"
+      },
+      {
+        "imdb": "tt0068156",
+        "title": "1776"
       }
     ],
     "roma_grecia": [
@@ -5978,6 +5982,18 @@
       {
         "imdb": "tt0465538",
         "title": "Michael Clayton"
+      },
+      {
+        "imdb": "tt0469494",
+        "title": "Pozos de ambición"
+      },
+      {
+        "imdb": "tt0977855",
+        "title": "Caza a la espía"
+      },
+      {
+        "imdb": "tt0461695",
+        "title": "Oil Storm"
       }
     ],
     "nuclear": [
@@ -6694,6 +6710,10 @@
       {
         "imdb": "tt0351299",
         "title": "盲井"
+      },
+      {
+        "imdb": "tt0235060",
+        "title": "El camino a casa"
       }
     ],
     "cine_hongkong": [
@@ -6850,6 +6870,10 @@
       {
         "imdb": "tt1588895",
         "title": "Tío Boonmee recuerda sus vidas pasadas"
+      },
+      {
+        "imdb": "tt4967094",
+        "title": "Our Times"
       }
     ],
     "cine_griego": [
@@ -7728,6 +7752,14 @@
       {
         "imdb": "tt0441909",
         "title": "Volver"
+      },
+      {
+        "imdb": "tt3416532",
+        "title": "Un monstruo viene a verme"
+      },
+      {
+        "imdb": "tt1649419",
+        "title": "Lo imposible"
       }
     ],
     "descolonizacion": [
@@ -8274,6 +8306,54 @@
       {
         "imdb": "tt2718492",
         "title": "Ida"
+      },
+      {
+        "imdb": "tt6543652",
+        "title": "Cold War"
+      },
+      {
+        "imdb": "tt3808342",
+        "title": "El hijo de Saúl"
+      },
+      {
+        "imdb": "tt1588337",
+        "title": "De dioses y hombres"
+      },
+      {
+        "imdb": "tt2737050",
+        "title": "Dos días, una noche"
+      },
+      {
+        "imdb": "tt8613070",
+        "title": "Retrato de una mujer en llamas"
+      },
+      {
+        "imdb": "tt8649186",
+        "title": "Corpus Christi"
+      },
+      {
+        "imdb": "tt4995790",
+        "title": "The Square"
+      },
+      {
+        "imdb": "tt8772262",
+        "title": "Midsommar"
+      },
+      {
+        "imdb": "tt5501104",
+        "title": "Border"
+      },
+      {
+        "imdb": "tt2121382",
+        "title": "Fuerza mayor"
+      },
+      {
+        "imdb": "tt4048272",
+        "title": "Toni Erdmann"
+      },
+      {
+        "imdb": "tt0366174",
+        "title": "Anacondas: La cacería por la orquídea sangrienta"
       }
     ],
     "cine_ruso_sovietico": [
@@ -8468,6 +8548,30 @@
       {
         "imdb": "tt0053258",
         "title": "Сегодня увольнения не будет..."
+      },
+      {
+        "imdb": "tt0307479",
+        "title": "Solaris"
+      },
+      {
+        "imdb": "tt12757550",
+        "title": "Рассказ о фильме «Иди и смотри»"
+      },
+      {
+        "imdb": "tt0095468",
+        "title": "No matarás"
+      },
+      {
+        "imdb": "tt0095467",
+        "title": "No amarás"
+      },
+      {
+        "imdb": "tt0101765",
+        "title": "La doble vida de Verónica"
+      },
+      {
+        "imdb": "tt0111495",
+        "title": "Tres colores: Rojo"
       }
     ],
     "coppola": [
@@ -8526,6 +8630,10 @@
       {
         "imdb": "tt10128846",
         "title": "Megalópolis"
+      },
+      {
+        "imdb": "tt0091738",
+        "title": "Peggy Sue se casó"
       }
     ],
     "lynch": [
@@ -8568,6 +8676,14 @@
       {
         "imdb": "tt0460829",
         "title": "Inland Empire"
+      },
+      {
+        "imdb": "tt0091983",
+        "title": "Algo salvaje"
+      },
+      {
+        "imdb": "tt0110632",
+        "title": "Asesinos natos"
       }
     ],
     "wong_kar_wai": [
@@ -8722,6 +8838,14 @@
       {
         "imdb": "tt2193215",
         "title": "El consejero"
+      },
+      {
+        "imdb": "tt0325805",
+        "title": "Los impostores"
+      },
+      {
+        "imdb": "tt0103594",
+        "title": "1492: La conquista del paraíso"
       }
     ],
     "herzog": [
@@ -8776,6 +8900,14 @@
       {
         "imdb": "tt0200849",
         "title": "Mi enemigo íntimo"
+      },
+      {
+        "imdb": "tt4846318",
+        "title": "Hacia el infierno"
+      },
+      {
+        "imdb": "tt4441150",
+        "title": "Desierto de fuego"
       }
     ],
     "experimentos_etica": [
