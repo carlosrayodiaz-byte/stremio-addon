@@ -65,8 +65,17 @@ function generateYearCatalogs() {
 // Catálogos especiales
 const SPECIAL_CATALOGS = [
   // — Alba Picks —
-  { id: "alba_romanticas_drama",   name: "💕 Alba: Románticas & Drama",          type: "carlos", key: "alba_romanticas_drama" },
-  { id: "alba_comedia_thriller",   name: "😂 Alba: Comedia, Thriller & Policiacas", type: "carlos", key: "alba_comedia_thriller" },
+  { id: "alba_romanticas_drama",        name: "💕 Alba: Románticas & Drama",              type: "carlos", key: "alba_romanticas_drama" },
+  { id: "alba_comedia_thriller",        name: "😂 Alba: Comedia, Thriller & Policiacas",  type: "carlos", key: "alba_comedia_thriller" },
+  { id: "alba_drama_intenso",           name: "🎭 Alba: Drama Intenso",                    type: "carlos", key: "alba_drama_intenso" },
+  { id: "alba_thriller_psicologico",    name: "👻 Alba: Thriller Psicológico",             type: "carlos", key: "alba_thriller_psicologico" },
+  { id: "alba_true_crime",              name: "🔍 Alba: True Crime & Misterio",            type: "carlos", key: "alba_true_crime" },
+  { id: "alba_rupturas_segundas",       name: "💔 Alba: Rupturas & Segundas Oportunidades", type: "carlos", key: "alba_rupturas_segundas" },
+  { id: "alba_llorar",                  name: "😭 Alba: Para Llorar a Gusto",              type: "carlos", key: "alba_llorar" },
+  { id: "alba_clasicos",                name: "🎬 Alba: Clásicos Imprescindibles",         type: "carlos", key: "alba_clasicos" },
+  { id: "alba_epoca",                   name: "👑 Alba: Dramas de Época",                  type: "carlos", key: "alba_epoca" },
+  { id: "alba_comedias_europeas",       name: "🌍 Alba: Comedias Europeas",                type: "carlos", key: "alba_comedias_europeas" },
+  { id: "alba_protagonistas_femeninas", name: "🦸‍♀️ Alba: Protagonistas Femeninas",         type: "carlos", key: "alba_protagonistas_femeninas" },
   // — Carlos Picks —
   { id: "carlos_guerra",            name: "🎖️ Carlos: Lo Mejor de Guerra",        type: "carlos", key: "guerra" },
   { id: "carlos_geopolitica",       name: "🌍 Carlos: Geopolítica & Poder",        type: "carlos", key: "geopolitica" },
