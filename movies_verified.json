@@ -248,6 +248,10 @@
       {
         "imdb": "tt1879016",
         "title": "El arma del engaño"
+      },
+      {
+        "imdb": "tt31434639",
+        "title": "Warfare: Tiempo de guerra"
       }
     ],
     "egipto": [
@@ -3150,6 +3154,22 @@
       {
         "imdb": "tt22507524",
         "title": "Seúl 12.12"
+      },
+      {
+        "imdb": "tt27802490",
+        "title": "Exhuma"
+      },
+      {
+        "imdb": "tt25808194",
+        "title": "Project Silence"
+      },
+      {
+        "imdb": "tt27811040",
+        "title": "Fuerza bruta: Castigo"
+      },
+      {
+        "imdb": "tt5834874",
+        "title": "Detonantes"
       }
     ],
     "cine_japones": [
@@ -3328,6 +3348,26 @@
       {
         "imdb": "tt2140203",
         "title": "Los niños lobo"
+      },
+      {
+        "imdb": "tt23289160",
+        "title": "Godzilla Minus One"
+      },
+      {
+        "imdb": "tt29941084",
+        "title": "Monster"
+      },
+      {
+        "imdb": "tt27503384",
+        "title": "Días Perfectos"
+      },
+      {
+        "imdb": "tt28490044",
+        "title": "El mal no existe"
+      },
+      {
+        "imdb": "tt19719904",
+        "title": "PLAN 75"
       }
     ],
     "cine_iran": [
@@ -3438,6 +3478,18 @@
       {
         "imdb": "tt12800524",
         "title": "El encuentro"
+      },
+      {
+        "imdb": "tt11697844",
+        "title": "La vida de los demás"
+      },
+      {
+        "imdb": "tt15690770",
+        "title": "Fora da Bouça"
+      },
+      {
+        "imdb": "tt13617580",
+        "title": "زالاوا"
       }
     ],
     "cine_arabe": [
@@ -3580,6 +3632,14 @@
       {
         "imdb": "tt1190858",
         "title": "Amerrika"
+      },
+      {
+        "imdb": "tt8132778",
+        "title": "La noche de los reyes"
+      },
+      {
+        "imdb": "tt14225838",
+        "title": "Yo capitán"
       }
     ],
     "cine_italiano": [
@@ -3896,6 +3956,26 @@
       {
         "imdb": "tt13429870",
         "title": "Robot Dreams"
+      },
+      {
+        "imdb": "tt16277242",
+        "title": "La sociedad de la nieve"
+      },
+      {
+        "imdb": "tt27751957",
+        "title": "El 47"
+      },
+      {
+        "imdb": "tt29270150",
+        "title": "La infiltrada"
+      },
+      {
+        "imdb": "tt8589210",
+        "title": "Marco y su Nonno"
+      },
+      {
+        "imdb": "tt26744818",
+        "title": "Un amor"
       }
     ],
     "cine_latinoamericano": [
@@ -4090,6 +4170,14 @@
       {
         "imdb": "tt0114746",
         "title": "12 monos"
+      },
+      {
+        "imdb": "tt16277242",
+        "title": "La sociedad de la nieve"
+      },
+      {
+        "imdb": "tt20782718",
+        "title": "Bardo"
       }
     ],
     "cine_aleman": [
@@ -4592,6 +4680,22 @@
       {
         "imdb": "tt13923216",
         "title": "Showing Up"
+      },
+      {
+        "imdb": "tt15893750",
+        "title": "Amor en Rye Lane"
+      },
+      {
+        "imdb": "tt22890246",
+        "title": "How to Have Sex"
+      },
+      {
+        "imdb": "tt21027780",
+        "title": "Fallen Leaves"
+      },
+      {
+        "imdb": "tt14225838",
+        "title": "Yo capitán"
       }
     ],
     "kubrick": [
@@ -5776,6 +5880,42 @@
       {
         "imdb": "tt8245936",
         "title": "The Conductor"
+      },
+      {
+        "imdb": "tt30321133",
+        "title": "Will y Harper"
+      },
+      {
+        "imdb": "tt27902121",
+        "title": "Super/Man: La historia de Christopher Reeve"
+      },
+      {
+        "imdb": "tt19308034",
+        "title": "Jim Henson: la audacia de las ideas"
+      },
+      {
+        "imdb": "tt20316978",
+        "title": "Elton John: Never Too Late"
+      },
+      {
+        "imdb": "tt28448182",
+        "title": "La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest"
+      },
+      {
+        "imdb": "tt12336480",
+        "title": "Hijas"
+      },
+      {
+        "imdb": "tt13871094",
+        "title": "Marcados al nacer"
+      },
+      {
+        "imdb": "tt19853258",
+        "title": "La vida de Michael J. Fox"
+      },
+      {
+        "imdb": "tt24132732",
+        "title": "La inspiración más profunda"
       }
     ],
     "cruzadas": [
@@ -6614,6 +6754,34 @@
       {
         "imdb": "tt7549996",
         "title": "Judy"
+      },
+      {
+        "imdb": "tt17279496",
+        "title": "Civil War"
+      },
+      {
+        "imdb": "tt13429870",
+        "title": "Robot Dreams"
+      },
+      {
+        "imdb": "tt14230458",
+        "title": "Pobres criaturas"
+      },
+      {
+        "imdb": "tt15009428",
+        "title": "Argylle"
+      },
+      {
+        "imdb": "tt9214772",
+        "title": "Monkey Man"
+      },
+      {
+        "imdb": "tt21261712",
+        "title": "Back to Black"
+      },
+      {
+        "imdb": "tt21454134",
+        "title": "Bikeriders. La ley del asfalto"
       }
     ],
     "pandemias": [
@@ -7020,6 +7188,46 @@
       {
         "imdb": "tt15791034",
         "title": "Barbarian"
+      },
+      {
+        "imdb": "tt17526714",
+        "title": "La sustancia"
+      },
+      {
+        "imdb": "tt23468450",
+        "title": "Longlegs"
+      },
+      {
+        "imdb": "tt27534307",
+        "title": "No hables con extraños"
+      },
+      {
+        "imdb": "tt28015403",
+        "title": "Heretic"
+      },
+      {
+        "imdb": "tt18412256",
+        "title": "Alien: Romulus"
+      },
+      {
+        "imdb": "tt19637052",
+        "title": "Sangre en los labios"
+      },
+      {
+        "imdb": "tt15574270",
+        "title": "El brillo de la televisión"
+      },
+      {
+        "imdb": "tt28366692",
+        "title": "El planeta de Janet"
+      },
+      {
+        "imdb": "tt15078804",
+        "title": "Problemista"
+      },
+      {
+        "imdb": "tt21192142",
+        "title": "Desconocidos"
       }
     ],
     "palma_oro": [
@@ -7134,6 +7342,26 @@
       {
         "imdb": "tt10370710",
         "title": "La peor persona del mundo"
+      },
+      {
+        "imdb": "tt28607951",
+        "title": "Anora"
+      },
+      {
+        "imdb": "tt32086077",
+        "title": "La luz que imaginamos"
+      },
+      {
+        "imdb": "tt27180099",
+        "title": "Grand Tour"
+      },
+      {
+        "imdb": "tt20221436",
+        "title": "Emilia Pérez"
+      },
+      {
+        "imdb": "tt27503384",
+        "title": "Días Perfectos"
       }
     ],
     "vigilancia_estado": [
@@ -7776,6 +8004,26 @@
       {
         "imdb": "tt14138650",
         "title": "Los crímenes de la academia"
+      },
+      {
+        "imdb": "tt21192142",
+        "title": "Desconocidos"
+      },
+      {
+        "imdb": "tt17351924",
+        "title": "Saltburn"
+      },
+      {
+        "imdb": "tt15893750",
+        "title": "Amor en Rye Lane"
+      },
+      {
+        "imdb": "tt8649252",
+        "title": "Scrapper"
+      },
+      {
+        "imdb": "tt22890246",
+        "title": "How to Have Sex"
       }
     ],
     "cine_indie_a24": [
@@ -8076,6 +8324,46 @@
       {
         "imdb": "tt8093700",
         "title": "La mujer rey"
+      },
+      {
+        "imdb": "tt16426418",
+        "title": "Rivales"
+      },
+      {
+        "imdb": "tt21064584",
+        "title": "El clan de hierro"
+      },
+      {
+        "imdb": "tt3758542",
+        "title": "Ferrari"
+      },
+      {
+        "imdb": "tt21454134",
+        "title": "Bikeriders. La ley del asfalto"
+      },
+      {
+        "imdb": "tt21192142",
+        "title": "Desconocidos"
+      },
+      {
+        "imdb": "tt14351082",
+        "title": "Una mujer italiana (Cabrini)"
+      },
+      {
+        "imdb": "tt2015349",
+        "title": "The Greatest Hits"
+      },
+      {
+        "imdb": "tt20215968",
+        "title": "Hit Man. Asesino por casualidad"
+      },
+      {
+        "imdb": "tt12584954",
+        "title": "Twisters"
+      },
+      {
+        "imdb": "tt1896747",
+        "title": "Fly Me to the Moon"
       }
     ],
     "petroleo_recursos": [
@@ -9740,6 +10028,34 @@
       {
         "imdb": "tt14279982",
         "title": "హిట్: ది సెకండ్ కేస్"
+      },
+      {
+        "imdb": "tt11821912",
+        "title": "Devara: Parte 1"
+      },
+      {
+        "imdb": "tt27510174",
+        "title": "स्त्री 2: सरकटे का आतंक"
+      },
+      {
+        "imdb": "tt27995594",
+        "title": "मुंज्या"
+      },
+      {
+        "imdb": "tt26548265",
+        "title": "Maharaja"
+      },
+      {
+        "imdb": "tt26233598",
+        "title": "ராயன்"
+      },
+      {
+        "imdb": "tt27540542",
+        "title": "లక్కీ భాస్కర్‌"
+      },
+      {
+        "imdb": "tt22036406",
+        "title": "கங்குவா"
       }
     ],
     "cine_israeli": [
@@ -11590,6 +11906,54 @@
       {
         "imdb": "tt14107554",
         "title": "Preso de los estudios"
+      },
+      {
+        "imdb": "tt13751694",
+        "title": "Animal"
+      },
+      {
+        "imdb": "tt15354916",
+        "title": "Jawan"
+      },
+      {
+        "imdb": "tt12844910",
+        "title": "Pathaan"
+      },
+      {
+        "imdb": "tt15428134",
+        "title": "Dunki"
+      },
+      {
+        "imdb": "tt4874350",
+        "title": "Shadow Fighter"
+      },
+      {
+        "imdb": "tt28480262",
+        "title": "Merry Birthday, Happy Christmas"
+      },
+      {
+        "imdb": "tt21383812",
+        "title": "Crew"
+      },
+      {
+        "imdb": "tt18072316",
+        "title": "Bade Miyan Chote Miyan"
+      },
+      {
+        "imdb": "tt23790740",
+        "title": "श्रीकांत - आ रहा है सबकी आँखें खोलने"
+      },
+      {
+        "imdb": "tt27744786",
+        "title": "शैतान"
+      },
+      {
+        "imdb": "tt30970235",
+        "title": "आर्टिकल 370"
+      },
+      {
+        "imdb": "tt0367110",
+        "title": "स्वदेस"
       }
     ],
     "tarkovsky": [
@@ -12656,6 +13020,14 @@
       {
         "imdb": "tt4614584",
         "title": "Corazones malheridos"
+      },
+      {
+        "imdb": "tt16426418",
+        "title": "Rivales"
+      },
+      {
+        "imdb": "tt14309446",
+        "title": "Tiempo para mí"
       }
     ],
     "alba_comedia_thriller": [
@@ -15350,6 +15722,18 @@
       {
         "imdb": "tt5302918",
         "title": "Nyad"
+      },
+      {
+        "imdb": "tt14849194",
+        "title": "Los que se quedan"
+      },
+      {
+        "imdb": "tt15239678",
+        "title": "Dune: Parte dos"
+      },
+      {
+        "imdb": "tt16426418",
+        "title": "Rivales"
       }
     ],
     "alba_thriller_psicologico": [
@@ -15492,6 +15876,14 @@
       {
         "imdb": "tt23468450",
         "title": "Longlegs"
+      },
+      {
+        "imdb": "tt28015403",
+        "title": "Heretic"
+      },
+      {
+        "imdb": "tt29268110",
+        "title": "Smile 2"
       }
     ],
     "alba_true_crime": [
@@ -16624,6 +17016,10 @@
       {
         "imdb": "tt4873118",
         "title": "El pacto"
+      },
+      {
+        "imdb": "tt22062424",
+        "title": "Szabadkikötő"
       }
     ],
     "carlos_inteligencia": [
@@ -16932,6 +17328,10 @@
       {
         "imdb": "tt12263384",
         "title": "Tyler Rake 2"
+      },
+      {
+        "imdb": "tt31434639",
+        "title": "Warfare: Tiempo de guerra"
       }
     ],
     "carlos_balcanes": [
@@ -17192,6 +17592,10 @@
       {
         "imdb": "tt8026154",
         "title": "Once a Hero"
+      },
+      {
+        "imdb": "tt11697844",
+        "title": "La vida de los demás"
       }
     ],
     "carlos_afganistan": [
@@ -17488,6 +17892,26 @@
       {
         "imdb": "tt17424334",
         "title": "Aquellos hombres grises"
+      },
+      {
+        "imdb": "tt12758060",
+        "title": "Tetris"
+      },
+      {
+        "imdb": "tt16419074",
+        "title": "Air"
+      },
+      {
+        "imdb": "tt28373455",
+        "title": "Game of Death: The Six Doors to Hell"
+      },
+      {
+        "imdb": "tt12758486",
+        "title": "Chevalier"
+      },
+      {
+        "imdb": "tt15398776",
+        "title": "Oppenheimer"
       }
     ],
     "carlos_ops_especiales": [
@@ -18162,6 +18586,14 @@
       {
         "imdb": "tt10365870",
         "title": "Eyimofe"
+      },
+      {
+        "imdb": "tt14225838",
+        "title": "Yo capitán"
+      },
+      {
+        "imdb": "tt20113412",
+        "title": "The Convert"
       }
     ],
     "alba_noche_chicas": [
@@ -18284,6 +18716,38 @@
       {
         "imdb": "tt13405810",
         "title": "La reina de los concursos"
+      },
+      {
+        "imdb": "tt14826022",
+        "title": "La gente como vosotros"
+      },
+      {
+        "imdb": "tt13352968",
+        "title": "Buena suerte, Leo Grande"
+      },
+      {
+        "imdb": "tt15893750",
+        "title": "Amor en Rye Lane"
+      },
+      {
+        "imdb": "tt26047818",
+        "title": "Cualquiera menos tú"
+      },
+      {
+        "imdb": "tt9466114",
+        "title": "La idea de tenerte"
+      },
+      {
+        "imdb": "tt21830902",
+        "title": "Upgrade: Primera clase"
+      },
+      {
+        "imdb": "tt21051906",
+        "title": "Un asunto familiar"
+      },
+      {
+        "imdb": "tt9866072",
+        "title": "Amor de calendario"
       }
     ],
     "alba_san_valentin": [
@@ -18748,6 +19212,34 @@
       {
         "imdb": "tt14160834",
         "title": "Rustin"
+      },
+      {
+        "imdb": "tt3758542",
+        "title": "Ferrari"
+      },
+      {
+        "imdb": "tt5535276",
+        "title": "Maestro"
+      },
+      {
+        "imdb": "tt21261712",
+        "title": "Back to Black"
+      },
+      {
+        "imdb": "tt5537002",
+        "title": "Los asesinos de la luna"
+      },
+      {
+        "imdb": "tt23561236",
+        "title": "American Fiction"
+      },
+      {
+        "imdb": "tt21064584",
+        "title": "El clan de hierro"
+      },
+      {
+        "imdb": "tt14351082",
+        "title": "Una mujer italiana (Cabrini)"
       }
     ]
   },
