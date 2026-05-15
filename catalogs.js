@@ -76,6 +76,11 @@ const SPECIAL_CATALOGS = [
   { id: "alba_epoca",                   name: "👑 Alba: Dramas de Época",                  type: "carlos", key: "alba_epoca" },
   { id: "alba_comedias_europeas",       name: "🌍 Alba: Comedias Europeas",                type: "carlos", key: "alba_comedias_europeas" },
   { id: "alba_protagonistas_femeninas", name: "🦸‍♀️ Alba: Protagonistas Femeninas",         type: "carlos", key: "alba_protagonistas_femeninas" },
+  { id: "alba_noche_chicas",            name: "🍷 Alba: Noche de Chicas",                  type: "carlos", key: "alba_noche_chicas" },
+  { id: "alba_san_valentin",            name: "🌹 Alba: San Valentín",                     type: "carlos", key: "alba_san_valentin" },
+  { id: "alba_familia",                 name: "👶 Alba: Familia & Maternidad",              type: "carlos", key: "alba_familia" },
+  { id: "alba_no_dormir",               name: "🌙 Alba: Para No Dormir",                   type: "carlos", key: "alba_no_dormir" },
+  { id: "alba_hechos_reales",           name: "🎭 Alba: Basadas en Hechos Reales",         type: "carlos", key: "alba_hechos_reales" },
   // — Carlos Especiales —
   { id: "carlos_humint",            name: "🕵️ Carlos: HUMINT & Agentes Dobles",          type: "carlos", key: "carlos_humint" },
   { id: "carlos_inteligencia",      name: "🧠 Carlos: Análisis & Inteligencia",            type: "carlos", key: "carlos_inteligencia" },
@@ -87,6 +92,8 @@ const SPECIAL_CATALOGS = [
   { id: "carlos_ops_especiales",    name: "🎯 Carlos: Operaciones Especiales",             type: "carlos", key: "carlos_ops_especiales" },
   { id: "carlos_periodismo_guerra", name: "📰 Carlos: Periodismo de Guerra",               type: "carlos", key: "carlos_periodismo_guerra" },
   { id: "carlos_caida_imperios",    name: "🏛️ Carlos: Caída de Imperios",                  type: "carlos", key: "carlos_caida_imperios" },
+  { id: "carlos_globalizacion",     name: "🌐 Carlos: Globalización & Economía",           type: "carlos", key: "carlos_globalizacion" },
+  { id: "carlos_guerras_olvidadas", name: "💀 Carlos: Guerras Olvidadas",                  type: "carlos", key: "carlos_guerras_olvidadas" },
   // — Carlos Picks —
   { id: "carlos_guerra",            name: "🎖️ Carlos: Lo Mejor de Guerra",        type: "carlos", key: "guerra" },
   { id: "carlos_geopolitica",       name: "🌍 Carlos: Geopolítica & Poder",        type: "carlos", key: "geopolitica" },
