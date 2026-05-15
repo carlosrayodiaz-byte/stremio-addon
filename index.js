@@ -177,7 +177,7 @@ app.get("/catalog/:type/:id.json", async (req, res) => {
     let movies = [];
 
     // ── Catálogos Carlos ──
-    if (id.startsWith("carlos_")) {
+    if (id.startsWith("carlos_") || id.startsWith("alba_")) {
       const special = SPECIAL_CATALOGS.find((c) => c.id === id);
       if (special && special.key) {
         // Usar datos verificados si existen
