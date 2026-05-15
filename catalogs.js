@@ -64,6 +64,9 @@ function generateYearCatalogs() {
 
 // Catálogos especiales
 const SPECIAL_CATALOGS = [
+  // — Alba Picks —
+  { id: "alba_romanticas_drama",   name: "💕 Alba: Románticas & Drama",          type: "carlos", key: "alba_romanticas_drama" },
+  { id: "alba_comedia_thriller",   name: "😂 Alba: Comedia, Thriller & Policiacas", type: "carlos", key: "alba_comedia_thriller" },
   // — Carlos Picks —
   { id: "carlos_guerra",            name: "🎖️ Carlos: Lo Mejor de Guerra",        type: "carlos", key: "guerra" },
   { id: "carlos_geopolitica",       name: "🌍 Carlos: Geopolítica & Poder",        type: "carlos", key: "geopolitica" },
