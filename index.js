@@ -244,6 +244,28 @@ app.get("/catalog/:type/:id.json", async (req, res) => {
     // ── Top por año ──
     } else if (id.startsWith("catalog_top_") && /\d{4}$/.test(id)) {
       const year = parseInt(id.split("_").pop());
+      const verifiedKey = "top_" + year;
+      if (VERIFIED?.movies?.[verifiedKey]) {
+        const list = VERIFIED.movies[verifiedKey];
+        const { tmdbFetch } = require("./tmdb");
+        const results = [];
+        const BATCH = 5;
+        for (let i = 0; i < list.length; i += BATCH) {
+          const batch = list.slice(i, i + BATCH);
+          const batchResults = await Promise.all(
+            batch.map(async (m) => {
+              try {
+                const data = await tmdbFetch(`/find/${m.imdb}?external_source=imdb_id`, TMDB_API_KEY);
+                const found = data.movie_results?.[0];
+                if (found) { found.imdb_id = m.imdb; return toMeta(found); }
+              } catch (e) {}
+              return null;
+            })
+          );
+          results.push(...batchResults.filter(m => m && m.poster));
+        }
+        return res.json({ metas: results });
+      }
       movies = await getTopByYear(TMDB_API_KEY, year, page);
 
     // ── Top por década ──
