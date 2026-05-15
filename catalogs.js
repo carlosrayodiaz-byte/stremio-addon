@@ -76,6 +76,17 @@ const SPECIAL_CATALOGS = [
   { id: "alba_epoca",                   name: "👑 Alba: Dramas de Época",                  type: "carlos", key: "alba_epoca" },
   { id: "alba_comedias_europeas",       name: "🌍 Alba: Comedias Europeas",                type: "carlos", key: "alba_comedias_europeas" },
   { id: "alba_protagonistas_femeninas", name: "🦸‍♀️ Alba: Protagonistas Femeninas",         type: "carlos", key: "alba_protagonistas_femeninas" },
+  // — Carlos Especiales —
+  { id: "carlos_humint",            name: "🕵️ Carlos: HUMINT & Agentes Dobles",          type: "carlos", key: "carlos_humint" },
+  { id: "carlos_inteligencia",      name: "🧠 Carlos: Análisis & Inteligencia",            type: "carlos", key: "carlos_inteligencia" },
+  { id: "carlos_asimetrico",        name: "⚔️ Carlos: Conflictos Asimétricos",             type: "carlos", key: "carlos_asimetrico" },
+  { id: "carlos_balcanes",          name: "🌍 Carlos: Balcanes & Europa del Este",         type: "carlos", key: "carlos_balcanes" },
+  { id: "carlos_islam_politico",    name: "☪️ Carlos: Mundo Árabe & Islam Político",       type: "carlos", key: "carlos_islam_politico" },
+  { id: "carlos_afganistan",        name: "🏔️ Carlos: Afganistán & Asia Central",          type: "carlos", key: "carlos_afganistan" },
+  { id: "carlos_rusia",             name: "🇷🇺 Carlos: Rusia & Ex-URSS",                    type: "carlos", key: "carlos_rusia" },
+  { id: "carlos_ops_especiales",    name: "🎯 Carlos: Operaciones Especiales",             type: "carlos", key: "carlos_ops_especiales" },
+  { id: "carlos_periodismo_guerra", name: "📰 Carlos: Periodismo de Guerra",               type: "carlos", key: "carlos_periodismo_guerra" },
+  { id: "carlos_caida_imperios",    name: "🏛️ Carlos: Caída de Imperios",                  type: "carlos", key: "carlos_caida_imperios" },
   // — Carlos Picks —
   { id: "carlos_guerra",            name: "🎖️ Carlos: Lo Mejor de Guerra",        type: "carlos", key: "guerra" },
   { id: "carlos_geopolitica",       name: "🌍 Carlos: Geopolítica & Poder",        type: "carlos", key: "geopolitica" },
