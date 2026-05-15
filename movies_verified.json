@@ -216,16 +216,20 @@
     ],
     "egipto": [
       {
-        "imdb": "tt0052618",
-        "title": "Ben-Hur"
+        "imdb": "tt0172495",
+        "title": "Gladiator"
       },
       {
-        "imdb": "tt0056937",
-        "title": "Cleopatra"
+        "imdb": "tt9218128",
+        "title": "Gladiator II"
       },
       {
         "imdb": "tt0416449",
         "title": "300"
+      },
+      {
+        "imdb": "tt1253863",
+        "title": "300: El origen de un imperio"
       },
       {
         "imdb": "tt0332452",
@@ -236,14 +240,6 @@
         "title": "Alejandro Magno"
       },
       {
-        "imdb": "tt0172495",
-        "title": "Gladiator"
-      },
-      {
-        "imdb": "tt0054331",
-        "title": "Espartaco"
-      },
-      {
         "imdb": "tt1186830",
         "title": "Ágora"
       },
@@ -252,72 +248,64 @@
         "title": "Exodus: Dioses y reyes"
       },
       {
-        "imdb": "tt0120794",
-        "title": "El príncipe de Egipto"
-      },
-      {
-        "imdb": "tt0120616",
-        "title": "La momia"
-      },
-      {
-        "imdb": "tt0320661",
-        "title": "El reino de los cielos"
-      },
-      {
-        "imdb": "tt0250223",
-        "title": "Astérix y Obélix: Misión Cleopatra"
-      },
-      {
         "imdb": "tt2638144",
         "title": "Ben-Hur"
       },
       {
-        "imdb": "tt0277296",
-        "title": "El rey escorpión"
+        "imdb": "tt1921064",
+        "title": "Pompeya"
+      },
+      {
+        "imdb": "tt1034389",
+        "title": "La legión del águila"
+      },
+      {
+        "imdb": "tt1020558",
+        "title": "Centurión"
+      },
+      {
+        "imdb": "tt0054331",
+        "title": "Espartaco"
+      },
+      {
+        "imdb": "tt0800320",
+        "title": "Furia de titanes"
+      },
+      {
+        "imdb": "tt1646987",
+        "title": "Ira de titanes"
+      },
+      {
+        "imdb": "tt1253864",
+        "title": "Immortals"
+      },
+      {
+        "imdb": "tt1267297",
+        "title": "Hércules"
+      },
+      {
+        "imdb": "tt1043726",
+        "title": "Hércules: El origen de la leyenda"
       },
       {
         "imdb": "tt2404233",
         "title": "Dioses de Egipto"
       },
       {
-        "imdb": "tt0046949",
-        "title": "Sinuhé, el egipcio"
+        "imdb": "tt3231054",
+        "title": "Resucitado"
       },
       {
-        "imdb": "tt0060401",
-        "title": "Faraón"
+        "imdb": "tt0120616",
+        "title": "La momia"
       },
       {
         "imdb": "tt0209163",
         "title": "El regreso de la momia"
       },
       {
-        "imdb": "tt0477347",
-        "title": "Noche en el museo"
-      },
-      {
-        "imdb": "tt0463872",
-        "title": "Astérix en los Juegos Olímpicos"
-      },
-      {
-        "imdb": "tt0049833",
-        "title": "Los Diez Mandamientos"
-      },
-      {
-        "imdb": "tt0048283",
-        "title": "Tierra de faraones"
-      },
-      {
-        "imdb": "tt0047641",
-        "title": "El valle de los reyes"
-      },
-      {
-        "imdb": "tt2345759",
-        "title": "La momia"
-      },
-      {
-        "imdb": "tt0083113",
-        "title": "La esfinge"
+        "imdb": "tt0277296",
+        "title": "El rey escorpión"
       },
       {
         "imdb": "tt7657566",
@@ -326,6 +314,26 @@
       {
         "imdb": "tt3402236",
         "title": "Asesinato en el Orient Express"
+      },
+      {
+        "imdb": "tt0120794",
+        "title": "El príncipe de Egipto"
+      },
+      {
+        "imdb": "tt0477347",
+        "title": "Noche en el museo"
+      },
+      {
+        "imdb": "tt0870154",
+        "title": "Jungle Cruise"
+      },
+      {
+        "imdb": "tt1464335",
+        "title": "Uncharted"
+      },
+      {
+        "imdb": "tt0320661",
+        "title": "El reino de los cielos"
       }
     ],
     "vikingos": [
@@ -342,10 +350,6 @@
         "title": "El guerrero nº 13"
       },
       {
-        "imdb": "tt0052365",
-        "title": "Los Vikingos"
-      },
-      {
         "imdb": "tt0442933",
         "title": "Beowulf"
       },
@@ -358,52 +362,20 @@
         "title": "Thor"
       },
       {
-        "imdb": "tt3950790",
-        "title": "El último reino perdido"
+        "imdb": "tt1981115",
+        "title": "Thor: el mundo oscuro"
+      },
+      {
+        "imdb": "tt3501632",
+        "title": "Thor: Ragnarok"
+      },
+      {
+        "imdb": "tt10648342",
+        "title": "Thor: Love and Thunder"
       },
       {
         "imdb": "tt0892769",
         "title": "Cómo entrenar a tu dragón"
-      },
-      {
-        "imdb": "tt0462465",
-        "title": "Outlander"
-      },
-      {
-        "imdb": "tt1233301",
-        "title": "Templario"
-      },
-      {
-        "imdb": "tt2290553",
-        "title": "Northmen: Los Vikingos"
-      },
-      {
-        "imdb": "tt0064000",
-        "title": "Alfredo el Grande"
-      },
-      {
-        "imdb": "tt8000908",
-        "title": "El rey de Escocia"
-      },
-      {
-        "imdb": "tt0047365",
-        "title": "El príncipe valiente"
-      },
-      {
-        "imdb": "tt0097289",
-        "title": "Erik el vikingo"
-      },
-      {
-        "imdb": "tt5555554",
-        "title": "Viking Legacy"
-      },
-      {
-        "imdb": "tt0349683",
-        "title": "El rey Arturo"
-      },
-      {
-        "imdb": "tt0082348",
-        "title": "Excalibur"
       },
       {
         "imdb": "tt1646971",
@@ -414,28 +386,48 @@
         "title": "Cómo entrenar a tu dragón 3"
       },
       {
-        "imdb": "tt0112573",
-        "title": "Braveheart"
+        "imdb": "tt0462465",
+        "title": "Outlander"
+      },
+      {
+        "imdb": "tt2290553",
+        "title": "Northmen: Los Vikingos"
+      },
+      {
+        "imdb": "tt5555554",
+        "title": "Viking Legacy"
+      },
+      {
+        "imdb": "tt8000908",
+        "title": "El rey de Escocia"
+      },
+      {
+        "imdb": "tt0349683",
+        "title": "El rey Arturo"
+      },
+      {
+        "imdb": "tt0082348",
+        "title": "Excalibur"
+      },
+      {
+        "imdb": "tt1233301",
+        "title": "Templario"
+      },
+      {
+        "imdb": "tt3950790",
+        "title": "El último reino perdido"
       },
       {
         "imdb": "tt0837106",
         "title": "Arn: El caballero templario"
       },
       {
+        "imdb": "tt0097289",
+        "title": "Erik el vikingo"
+      },
+      {
         "imdb": "tt8956872",
         "title": "Valhalla"
-      },
-      {
-        "imdb": "tt0264410",
-        "title": "Berserker: Hell's Warrior"
-      },
-      {
-        "imdb": "tt1278340",
-        "title": "Zombis nazis"
-      },
-      {
-        "imdb": "tt3501632",
-        "title": "Thor: Ragnarok"
       }
     ],
     "edad_media": [
@@ -468,14 +460,6 @@
         "title": "Excalibur"
       },
       {
-        "imdb": "tt0054847",
-        "title": "El Cid"
-      },
-      {
-        "imdb": "tt0071853",
-        "title": "Los caballeros de la mesa cuadrada y sus locos seguidores"
-      },
-      {
         "imdb": "tt4244994",
         "title": "El último duelo"
       },
@@ -500,52 +484,8 @@
         "title": "Enrique V"
       },
       {
-        "imdb": "tt0151137",
-        "title": "Juana de Arco"
-      },
-      {
-        "imdb": "tt0063227",
-        "title": "El león en invierno"
-      },
-      {
-        "imdb": "tt0057877",
-        "title": "Becket"
-      },
-      {
-        "imdb": "tt0161635",
-        "title": "Guinea Pig 2: Flowers of flesh and blood"
-      },
-      {
-        "imdb": "tt0075147",
-        "title": "Robin y Marian"
-      },
-      {
-        "imdb": "tt0029843",
-        "title": "Robin de los bosques"
-      },
-      {
-        "imdb": "tt0036910",
-        "title": "Enrique V"
-      },
-      {
-        "imdb": "tt0099334",
-        "title": "Cyrano de Bergerac"
-      },
-      {
-        "imdb": "tt0837106",
-        "title": "Arn: El caballero templario"
-      },
-      {
-        "imdb": "tt0044760",
-        "title": "Ivanhoe"
-      },
-      {
-        "imdb": "tt0026249",
-        "title": "Las Cruzadas"
-      },
-      {
-        "imdb": "tt0045966",
-        "title": "Los caballeros del rey Arturo"
+        "imdb": "tt0071853",
+        "title": "Los caballeros de la mesa cuadrada y sus locos seguidores"
       },
       {
         "imdb": "tt9243804",
@@ -558,6 +498,38 @@
       {
         "imdb": "tt11992694",
         "title": "La emperatriz rebelde"
+      },
+      {
+        "imdb": "tt0349683",
+        "title": "El rey Arturo"
+      },
+      {
+        "imdb": "tt0054847",
+        "title": "El Cid"
+      },
+      {
+        "imdb": "tt0057877",
+        "title": "Becket"
+      },
+      {
+        "imdb": "tt0837106",
+        "title": "Arn: El caballero templario"
+      },
+      {
+        "imdb": "tt0029843",
+        "title": "Robin de los bosques"
+      },
+      {
+        "imdb": "tt0075147",
+        "title": "Robin y Marian"
+      },
+      {
+        "imdb": "tt0161635",
+        "title": "Guinea Pig 2: Flowers of flesh and blood"
+      },
+      {
+        "imdb": "tt0044760",
+        "title": "Ivanhoe"
       }
     ],
     "wwii": [
@@ -2154,18 +2126,6 @@
         "title": "El bueno, el feo y el malo"
       },
       {
-        "imdb": "tt0064116",
-        "title": "Hasta que llegó su hora"
-      },
-      {
-        "imdb": "tt0059578",
-        "title": "La muerte tenía un precio"
-      },
-      {
-        "imdb": "tt0058461",
-        "title": "Por un puñado de dólares"
-      },
-      {
         "imdb": "tt0105695",
         "title": "Sin perdón"
       },
@@ -2190,10 +2150,6 @@
         "title": "Tombstone: La leyenda de Wyatt Earp"
       },
       {
-        "imdb": "tt0064115",
-        "title": "Dos hombres y un destino"
-      },
-      {
         "imdb": "tt0381849",
         "title": "El tren de las 3:10"
       },
@@ -2206,44 +2162,16 @@
         "title": "El último mohicano"
       },
       {
-        "imdb": "tt0111756",
-        "title": "Wyatt Earp"
-      },
-      {
         "imdb": "tt0075029",
         "title": "El fuera de la ley"
       },
       {
-        "imdb": "tt0046303",
-        "title": "Raíces profundas"
+        "imdb": "tt0064116",
+        "title": "Hasta que llegó su hora"
       },
       {
-        "imdb": "tt0044706",
-        "title": "Solo ante el peligro"
-      },
-      {
-        "imdb": "tt0065214",
-        "title": "Grupo salvaje"
-      },
-      {
-        "imdb": "tt0070518",
-        "title": "Pat Garrett y Billy el Niño"
-      },
-      {
-        "imdb": "tt0049730",
-        "title": "Centauros del desierto"
-      },
-      {
-        "imdb": "tt0067411",
-        "title": "Los vividores"
-      },
-      {
-        "imdb": "tt0112817",
-        "title": "Dead Man"
-      },
-      {
-        "imdb": "tt0443680",
-        "title": "El asesinato de Jesse James por el cobarde Robert Ford"
+        "imdb": "tt1663202",
+        "title": "El renacido"
       },
       {
         "imdb": "tt2494362",
@@ -2254,16 +2182,32 @@
         "title": "Hostiles"
       },
       {
-        "imdb": "tt1518812",
-        "title": "Meek's Cutoff"
+        "imdb": "tt10293406",
+        "title": "El poder del perro"
       },
       {
-        "imdb": "tt1663202",
-        "title": "El renacido"
+        "imdb": "tt6878306",
+        "title": "Noticias del gran mundo"
+      },
+      {
+        "imdb": "tt10696784",
+        "title": "Más dura será la caída"
+      },
+      {
+        "imdb": "tt12731980",
+        "title": "Old Henry"
       },
       {
         "imdb": "tt3205376",
         "title": "Slow West"
+      },
+      {
+        "imdb": "tt0443680",
+        "title": "El asesinato de Jesse James por el cobarde Robert Ford"
+      },
+      {
+        "imdb": "tt0112817",
+        "title": "Dead Man"
       },
       {
         "imdb": "tt1629705",
@@ -2274,64 +2218,24 @@
         "title": "Appaloosa"
       },
       {
-        "imdb": "tt0050086",
-        "title": "El tren de las 3:10"
+        "imdb": "tt1518812",
+        "title": "Meek's Cutoff"
       },
       {
-        "imdb": "tt0053221",
-        "title": "Río Bravo"
+        "imdb": "tt2140037",
+        "title": "La venganza de Jane"
       },
       {
-        "imdb": "tt0061619",
-        "title": "El Dorado"
+        "imdb": "tt5905838",
+        "title": "Godless"
       },
       {
-        "imdb": "tt0056217",
-        "title": "El hombre que mató a Liberty Valance"
+        "imdb": "tt2404435",
+        "title": "Los siete magníficos"
       },
       {
-        "imdb": "tt10293406",
-        "title": "El poder del perro"
-      },
-      {
-        "imdb": "tt6878306",
-        "title": "Noticias del gran mundo"
-      },
-      {
-        "imdb": "tt7740510",
-        "title": "Antlers: Criatura oscura"
-      },
-      {
-        "imdb": "tt12731980",
-        "title": "Old Henry"
-      },
-      {
-        "imdb": "tt10696784",
-        "title": "Más dura será la caída"
-      },
-      {
-        "imdb": "tt12361974",
-        "title": "La liga de la justicia de Zack Snyder"
-      },
-      {
-        "imdb": "tt5748448",
-        "title": "Juego de asesinos"
-      },
-      {
-        "imdb": "tt3215824",
-        "title": "Aquellos que desean mi muerte"
-      },
-      {
-        "imdb": "tt9244554",
-        "title": "La última mirada"
-      },
-      {
-        "imdb": "tt6902332",
-        "title": "El protector"
-      },
-      {
-        "imdb": "tt2304637",
-        "title": "El día de la bandera"
+        "imdb": "tt1895315",
+        "title": "Brimstone. La hija del predicador"
       }
     ],
     "mafia_crimen": [
@@ -5226,44 +5130,32 @@
         "title": "Apocalypto"
       },
       {
-        "imdb": "tt0068182",
-        "title": "Aguirre, la cólera de Dios"
-      },
-      {
-        "imdb": "tt0091530",
-        "title": "La misión"
-      },
-      {
-        "imdb": "tt0103594",
-        "title": "1492: La conquista del paraíso"
-      },
-      {
-        "imdb": "tt4285496",
-        "title": "El abrazo de la serpiente"
-      },
-      {
-        "imdb": "tt0083946",
-        "title": "Fitzcarraldo"
-      },
-      {
-        "imdb": "tt0120679",
-        "title": "Frida"
-      },
-      {
         "imdb": "tt2380307",
         "title": "Coco"
+      },
+      {
+        "imdb": "tt2953050",
+        "title": "Encanto"
       },
       {
         "imdb": "tt0138749",
         "title": "La ruta hacia El Dorado"
       },
       {
+        "imdb": "tt0318462",
+        "title": "Diarios de motocicleta"
+      },
+      {
+        "imdb": "tt0120679",
+        "title": "Frida"
+      },
+      {
         "imdb": "tt0892255",
         "title": "Che: El argentino"
       },
       {
-        "imdb": "tt0317248",
-        "title": "Ciudad de Dios"
+        "imdb": "tt0374569",
+        "title": "Che: Guerrilla"
       },
       {
         "imdb": "tt6155172",
@@ -5278,8 +5170,12 @@
         "title": "Amores perros"
       },
       {
-        "imdb": "tt0318462",
-        "title": "Diarios de motocicleta"
+        "imdb": "tt0317248",
+        "title": "Ciudad de Dios"
+      },
+      {
+        "imdb": "tt4285496",
+        "title": "El abrazo de la serpiente"
       },
       {
         "imdb": "tt0477348",
@@ -5298,20 +5194,32 @@
         "title": "Sin nombre"
       },
       {
+        "imdb": "tt0390221",
+        "title": "María, llena eres de gracia"
+      },
+      {
+        "imdb": "tt0103594",
+        "title": "1492: La conquista del paraíso"
+      },
+      {
+        "imdb": "tt0091530",
+        "title": "La misión"
+      },
+      {
+        "imdb": "tt0068182",
+        "title": "Aguirre, la cólera de Dios"
+      },
+      {
         "imdb": "tt9114286",
         "title": "Black Panther: Wakanda Forever"
       },
       {
-        "imdb": "tt2953050",
-        "title": "Encanto"
+        "imdb": "tt0870154",
+        "title": "Jungle Cruise"
       },
       {
-        "imdb": "tt0374569",
-        "title": "Che: Guerrilla"
-      },
-      {
-        "imdb": "tt9243946",
-        "title": "El Camino: Una película de Breaking Bad"
+        "imdb": "tt7547410",
+        "title": "Dora y la ciudad perdida"
       }
     ],
     "independencia_usa": [
@@ -5348,10 +5256,6 @@
         "title": "Django desencadenado"
       },
       {
-        "imdb": "tt4196450",
-        "title": "El nacimiento de una nación"
-      },
-      {
         "imdb": "tt0217505",
         "title": "Gangs of New York"
       },
@@ -5360,40 +5264,76 @@
         "title": "El renacido"
       },
       {
-        "imdb": "tt4943998",
-        "title": "Deadwood: La película"
-      },
-      {
         "imdb": "tt0115988",
         "title": "El crisol"
-      },
-      {
-        "imdb": "tt0117039",
-        "title": "Michael Collins"
-      },
-      {
-        "imdb": "tt0112573",
-        "title": "Braveheart"
-      },
-      {
-        "imdb": "tt0114287",
-        "title": "Rob Roy, la pasión de un rebelde"
       },
       {
         "imdb": "tt0402399",
         "title": "El nuevo mundo"
       },
       {
-        "imdb": "tt0114148",
-        "title": "Pocahontas"
+        "imdb": "tt8503618",
+        "title": "Hamilton"
       },
       {
-        "imdb": "tt0027869",
-        "title": "El último mohicano"
+        "imdb": "tt4648786",
+        "title": "Harriet, en busca de la libertad"
       },
       {
-        "imdb": "tt0068156",
-        "title": "1776"
+        "imdb": "tt1020072",
+        "title": "Selma"
+      },
+      {
+        "imdb": "tt7349662",
+        "title": "Infiltrado en el KKKlan"
+      },
+      {
+        "imdb": "tt9777644",
+        "title": "Da 5 Bloods: Hermanos de armas"
+      },
+      {
+        "imdb": "tt9784798",
+        "title": "Judas y el mesías negro"
+      },
+      {
+        "imdb": "tt1070874",
+        "title": "El juicio de los 7 de Chicago"
+      },
+      {
+        "imdb": "tt10612922",
+        "title": "Una noche en Miami…"
+      },
+      {
+        "imdb": "tt5301662",
+        "title": "Marshall"
+      },
+      {
+        "imdb": "tt10065694",
+        "title": "Antebellum"
+      },
+      {
+        "imdb": "tt4196450",
+        "title": "El nacimiento de una nación"
+      },
+      {
+        "imdb": "tt12530246",
+        "title": "Hacia la libertad"
+      },
+      {
+        "imdb": "tt0245397",
+        "title": "Roots Rock Reggae: Inside The Jamaican Music Scene"
+      },
+      {
+        "imdb": "tt1413492",
+        "title": "12 valientes"
+      },
+      {
+        "imdb": "tt4572514",
+        "title": "Día de patriotas"
+      },
+      {
+        "imdb": "tt1091191",
+        "title": "El único superviviente"
       }
     ],
     "roma_grecia": [
@@ -5402,12 +5342,16 @@
         "title": "Gladiator"
       },
       {
-        "imdb": "tt0052618",
-        "title": "Ben-Hur"
+        "imdb": "tt9218128",
+        "title": "Gladiator II"
       },
       {
         "imdb": "tt0416449",
         "title": "300"
+      },
+      {
+        "imdb": "tt1253863",
+        "title": "300: El origen de un imperio"
       },
       {
         "imdb": "tt0332452",
@@ -5418,40 +5362,20 @@
         "title": "Alejandro Magno"
       },
       {
-        "imdb": "tt0054331",
-        "title": "Espartaco"
-      },
-      {
-        "imdb": "tt0056937",
-        "title": "Cleopatra"
-      },
-      {
         "imdb": "tt1186830",
         "title": "Ágora"
       },
       {
-        "imdb": "tt0079470",
-        "title": "La vida de Brian"
+        "imdb": "tt1528100",
+        "title": "Exodus: Dioses y reyes"
       },
       {
-        "imdb": "tt0080491",
-        "title": "Calígula"
+        "imdb": "tt0320661",
+        "title": "El reino de los cielos"
       },
       {
-        "imdb": "tt0058085",
-        "title": "La caída del Imperio Romano"
-      },
-      {
-        "imdb": "tt0043949",
-        "title": "Quo Vadis"
-      },
-      {
-        "imdb": "tt0046247",
-        "title": "La túnica sagrada"
-      },
-      {
-        "imdb": "tt0166788",
-        "title": "Satyricon"
+        "imdb": "tt1921064",
+        "title": "Pompeya"
       },
       {
         "imdb": "tt1034389",
@@ -5462,50 +5386,58 @@
         "title": "Centurión"
       },
       {
-        "imdb": "tt0954240",
-        "title": "Murder in Rome"
+        "imdb": "tt0079470",
+        "title": "La vida de Brian"
       },
       {
-        "imdb": "tt0320661",
-        "title": "El reino de los cielos"
+        "imdb": "tt0054331",
+        "title": "Espartaco"
       },
       {
-        "imdb": "tt0462396",
-        "title": "La última legión"
+        "imdb": "tt2638144",
+        "title": "Ben-Hur"
       },
       {
-        "imdb": "tt1921064",
-        "title": "Pompeya"
+        "imdb": "tt0800320",
+        "title": "Furia de titanes"
+      },
+      {
+        "imdb": "tt1646987",
+        "title": "Ira de titanes"
+      },
+      {
+        "imdb": "tt1253864",
+        "title": "Immortals"
+      },
+      {
+        "imdb": "tt1267297",
+        "title": "Hércules"
+      },
+      {
+        "imdb": "tt1043726",
+        "title": "Hércules: El origen de la leyenda"
+      },
+      {
+        "imdb": "tt2404233",
+        "title": "Dioses de Egipto"
+      },
+      {
+        "imdb": "tt3231054",
+        "title": "Resucitado"
+      },
+      {
+        "imdb": "tt7388562",
+        "title": "Pablo, el apóstol de Cristo"
+      },
+      {
+        "imdb": "tt6149154",
+        "title": "Esperando a los bárbaros"
       }
     ],
     "asia_samurai": [
       {
-        "imdb": "tt0047478",
-        "title": "Los siete samuráis"
-      },
-      {
-        "imdb": "tt0042876",
-        "title": "Rashomon"
-      },
-      {
         "imdb": "tt0325710",
         "title": "El último samurái"
-      },
-      {
-        "imdb": "tt0089881",
-        "title": "Ran"
-      },
-      {
-        "imdb": "tt0080979",
-        "title": "Kagemusha, la sombra del guerrero"
-      },
-      {
-        "imdb": "tt0299977",
-        "title": "Hero"
-      },
-      {
-        "imdb": "tt5679696",
-        "title": "Making of House of Flying Daggers"
       },
       {
         "imdb": "tt1436045",
@@ -5516,48 +5448,64 @@
         "title": "Zatoichi"
       },
       {
-        "imdb": "tt0055630",
-        "title": "Yojimbo (El mercenario)"
-      },
-      {
-        "imdb": "tt0056443",
-        "title": "Sanjuro"
-      },
-      {
-        "imdb": "tt0056058",
-        "title": "Harakiri"
-      },
-      {
-        "imdb": "tt0060277",
-        "title": "La espada del mal"
-      },
-      {
-        "imdb": "tt0143348",
-        "title": "Lobo solitario y su cachorro: El corazón de un padre, el corazón de un hijo"
-      },
-      {
-        "imdb": "tt0051808",
-        "title": "La fortaleza escondida"
-      },
-      {
         "imdb": "tt2409944",
         "title": "Rurouni Kenshin: New Kyoto Arc: The Chirps of Light"
       },
       {
-        "imdb": "tt0081506",
-        "title": "El asesino del Shogun"
+        "imdb": "tt3029558",
+        "title": "Kenshin, el guerrero samurái 2: Infierno en Kioto"
+      },
+      {
+        "imdb": "tt3029556",
+        "title": "Kenshin, el guerrero samurái 3. El fin de la leyenda"
+      },
+      {
+        "imdb": "tt11809034",
+        "title": "Kenshin, el guerrero samurái: El final"
+      },
+      {
+        "imdb": "tt11991748",
+        "title": "Kenshin, el guerrero samurái: El principio"
       },
       {
         "imdb": "tt0384819",
         "title": "Azumi"
       },
       {
-        "imdb": "tt0107692",
-        "title": "Ninja Scroll"
+        "imdb": "tt2652118",
+        "title": "Tigre y dragón 2: La espada del destino"
       },
       {
-        "imdb": "tt0061847",
-        "title": "Rebelión"
+        "imdb": "tt0299977",
+        "title": "Hero"
+      },
+      {
+        "imdb": "tt5679696",
+        "title": "Making of House of Flying Daggers"
+      },
+      {
+        "imdb": "tt1205537",
+        "title": "Jack Ryan: Operación sombra"
+      },
+      {
+        "imdb": "tt4566758",
+        "title": "Mulán"
+      },
+      {
+        "imdb": "tt1335975",
+        "title": "La leyenda del samurái (47 Ronin)"
+      },
+      {
+        "imdb": "tt1186367",
+        "title": "Ninja Assassin"
+      },
+      {
+        "imdb": "tt0295682",
+        "title": "El guerrero (The Warrior)"
+      },
+      {
+        "imdb": "tt0056058",
+        "title": "Harakiri"
       },
       {
         "imdb": "tt0351817",
@@ -5570,6 +5518,14 @@
       {
         "imdb": "tt0158714",
         "title": "Lady Snowblood"
+      },
+      {
+        "imdb": "tt0107692",
+        "title": "Ninja Scroll"
+      },
+      {
+        "imdb": "tt1121794",
+        "title": "El samurái sin nombre (Sword of the Stranger)"
       }
     ],
     "documentales_top": [
@@ -5740,10 +5696,6 @@
         "title": "Excalibur"
       },
       {
-        "imdb": "tt0054847",
-        "title": "El Cid"
-      },
-      {
         "imdb": "tt0097576",
         "title": "Indiana Jones y la última cruzada"
       },
@@ -5754,14 +5706,6 @@
       {
         "imdb": "tt0837106",
         "title": "Arn: El caballero templario"
-      },
-      {
-        "imdb": "tt0026249",
-        "title": "Las Cruzadas"
-      },
-      {
-        "imdb": "tt0395119",
-        "title": "Alatriste"
       },
       {
         "imdb": "tt4244994",
@@ -5784,36 +5728,24 @@
         "title": "El león en invierno"
       },
       {
+        "imdb": "tt0097499",
+        "title": "Enrique V"
+      },
+      {
         "imdb": "tt0075147",
         "title": "Robin y Marian"
       },
       {
-        "imdb": "tt0029843",
-        "title": "Robin de los bosques"
+        "imdb": "tt0349683",
+        "title": "El rey Arturo"
       },
       {
-        "imdb": "tt0036910",
-        "title": "Enrique V"
+        "imdb": "tt0054847",
+        "title": "El Cid"
       },
       {
-        "imdb": "tt0099334",
-        "title": "Cyrano de Bergerac"
-      },
-      {
-        "imdb": "tt0161635",
-        "title": "Guinea Pig 2: Flowers of flesh and blood"
-      },
-      {
-        "imdb": "tt0044760",
-        "title": "Ivanhoe"
-      },
-      {
-        "imdb": "tt0045966",
-        "title": "Los caballeros del rey Arturo"
-      },
-      {
-        "imdb": "tt0049092",
-        "title": "El conquistador de Mongolia"
+        "imdb": "tt0381111",
+        "title": "Cruzadas: Atrapado en el pasado"
       }
     ],
     "mongol": [
@@ -5822,60 +5754,24 @@
         "title": "Mongol"
       },
       {
-        "imdb": "tt0059219",
-        "title": "Genghis Khan"
+        "imdb": "tt2034800",
+        "title": "La Gran Muralla"
       },
       {
-        "imdb": "tt0049092",
-        "title": "El conquistador de Mongolia"
-      },
-      {
-        "imdb": "tt0055141",
-        "title": "Marco Polo"
-      },
-      {
-        "imdb": "tt0047478",
-        "title": "Los siete samuráis"
-      },
-      {
-        "imdb": "tt0089881",
-        "title": "Ran"
-      },
-      {
-        "imdb": "tt0299977",
-        "title": "Hero"
-      },
-      {
-        "imdb": "tt0080979",
-        "title": "Kagemusha, la sombra del guerrero"
-      },
-      {
-        "imdb": "tt0325710",
-        "title": "El último samurái"
-      },
-      {
-        "imdb": "tt0346491",
-        "title": "Alejandro Magno"
-      },
-      {
-        "imdb": "tt0366197",
-        "title": "Attila el huno"
-      },
-      {
-        "imdb": "tt0120657",
-        "title": "El guerrero nº 13"
-      },
-      {
-        "imdb": "tt0119485",
-        "title": "Kundun"
+        "imdb": "tt4566758",
+        "title": "Mulán"
       },
       {
         "imdb": "tt0120102",
         "title": "Siete años en el Tíbet"
       },
       {
-        "imdb": "tt0067216",
-        "title": "Orgullo de estirpe"
+        "imdb": "tt0119485",
+        "title": "Kundun"
+      },
+      {
+        "imdb": "tt0419887",
+        "title": "Cometas en el cielo"
       },
       {
         "imdb": "tt7473390",
@@ -5884,6 +5780,34 @@
       {
         "imdb": "tt1124364",
         "title": "Тайна Чингис Хаана"
+      },
+      {
+        "imdb": "tt0366197",
+        "title": "Attila el huno"
+      },
+      {
+        "imdb": "tt0299977",
+        "title": "Hero"
+      },
+      {
+        "imdb": "tt1205537",
+        "title": "Jack Ryan: Operación sombra"
+      },
+      {
+        "imdb": "tt0051808",
+        "title": "La fortaleza escondida"
+      },
+      {
+        "imdb": "tt0089881",
+        "title": "Ran"
+      },
+      {
+        "imdb": "tt0080979",
+        "title": "Kagemusha, la sombra del guerrero"
+      },
+      {
+        "imdb": "tt0047478",
+        "title": "Los siete samuráis"
       }
     ],
     "piratas": [
@@ -5892,32 +5816,44 @@
         "title": "Piratas del Caribe: La maldición de la Perla Negra"
       },
       {
+        "imdb": "tt0383574",
+        "title": "Piratas del Caribe: El cofre del hombre muerto"
+      },
+      {
+        "imdb": "tt0449088",
+        "title": "Piratas del Caribe: En el fin del mundo"
+      },
+      {
+        "imdb": "tt1298650",
+        "title": "Piratas del Caribe: En mareas misteriosas"
+      },
+      {
+        "imdb": "tt1790809",
+        "title": "Piratas del Caribe: La venganza de Salazar"
+      },
+      {
         "imdb": "tt0311113",
         "title": "Master and commander: Al otro lado del mundo"
       },
       {
-        "imdb": "tt0043067",
-        "title": "La isla del tesoro"
+        "imdb": "tt1535109",
+        "title": "Capitán Phillips"
+      },
+      {
+        "imdb": "tt0093779",
+        "title": "La princesa prometida"
+      },
+      {
+        "imdb": "tt0102057",
+        "title": "Hook (El capitán Garfio)"
       },
       {
         "imdb": "tt0112760",
         "title": "La isla de las cabezas cortadas"
       },
       {
-        "imdb": "tt0026174",
-        "title": "El capitán Blood"
-      },
-      {
-        "imdb": "tt0033028",
-        "title": "El halcón del mar"
-      },
-      {
-        "imdb": "tt0044426",
-        "title": "El pirata Barbanegra"
-      },
-      {
-        "imdb": "tt1535109",
-        "title": "Capitán Phillips"
+        "imdb": "tt0114898",
+        "title": "Waterworld"
       },
       {
         "imdb": "tt3485166",
@@ -5928,36 +5864,16 @@
         "title": "Los teleñecos en la Isla del Tesoro"
       },
       {
-        "imdb": "tt0093779",
-        "title": "La princesa prometida"
+        "imdb": "tt0133240",
+        "title": "El planeta del tesoro"
       },
       {
-        "imdb": "tt0075294",
-        "title": "El corsario escarlata"
+        "imdb": "tt1464335",
+        "title": "Uncharted"
       },
       {
-        "imdb": "tt0044333",
-        "title": "La isla de los corsarios"
-      },
-      {
-        "imdb": "tt0051436",
-        "title": "Los bucaneros"
-      },
-      {
-        "imdb": "tt0055192",
-        "title": "Morgan, el pirata"
-      },
-      {
-        "imdb": "tt0114898",
-        "title": "Waterworld"
-      },
-      {
-        "imdb": "tt0102057",
-        "title": "Hook (El capitán Garfio)"
-      },
-      {
-        "imdb": "tt0047189",
-        "title": "Aventuras de John Silver"
+        "imdb": "tt0870154",
+        "title": "Jungle Cruise"
       },
       {
         "imdb": "tt0086618",
@@ -5978,24 +5894,12 @@
         "title": "Waterloo"
       },
       {
-        "imdb": "tt0018192",
-        "title": "Napoléon"
-      },
-      {
-        "imdb": "tt0047101",
-        "title": "Deseos humanos"
+        "imdb": "tt0075968",
+        "title": "Los duelistas"
       },
       {
         "imdb": "tt0049934",
         "title": "Guerra y paz"
-      },
-      {
-        "imdb": "tt0061162",
-        "title": "Guerra y paz, Parte II: Natasha Rostova"
-      },
-      {
-        "imdb": "tt0075968",
-        "title": "Los duelistas"
       },
       {
         "imdb": "tt0108108",
@@ -6010,43 +5914,47 @@
         "title": "La última batalla"
       },
       {
-        "imdb": "tt0053638",
-        "title": "Austerlitz"
-      },
-      {
-        "imdb": "tt0017877",
-        "title": "The Fighting Eagle"
-      },
-      {
-        "imdb": "tt0046903",
-        "title": "Désirée"
-      },
-      {
-        "imdb": "tt0016065",
-        "title": "Madame Sans-Gêne"
-      },
-      {
-        "imdb": "tt0109454",
-        "title": "Le Colonel Chabert"
-      },
-      {
         "imdb": "tt0119683",
         "title": "Los miserables: La leyenda nunca muere"
       },
       {
-        "imdb": "tt0025748",
+        "imdb": "tt1707386",
+        "title": "Los miserables"
+      },
+      {
+        "imdb": "tt0050709",
+        "title": "Los miserables"
+      },
+      {
+        "imdb": "tt0084637",
         "title": "La pimpinela escarlata"
       },
       {
         "imdb": "tt0072684",
         "title": "Barry Lyndon"
+      },
+      {
+        "imdb": "tt0414387",
+        "title": "Orgullo y prejuicio"
+      },
+      {
+        "imdb": "tt0114388",
+        "title": "Sentido y sensibilidad"
+      },
+      {
+        "imdb": "tt0129686",
+        "title": "Hornblower: The Even Chance"
+      },
+      {
+        "imdb": "tt0311113",
+        "title": "Master and commander: Al otro lado del mundo"
+      },
+      {
+        "imdb": "tt0053638",
+        "title": "Austerlitz"
       }
     ],
     "africa_colonial": [
-      {
-        "imdb": "tt0089755",
-        "title": "Memorias de África"
-      },
       {
         "imdb": "tt0395169",
         "title": "Hotel Rwanda"
@@ -6058,22 +5966,6 @@
       {
         "imdb": "tt0455590",
         "title": "El último rey de Escocia"
-      },
-      {
-        "imdb": "tt0387131",
-        "title": "El jardinero fiel"
-      },
-      {
-        "imdb": "tt0058777",
-        "title": "Zulú"
-      },
-      {
-        "imdb": "tt0058946",
-        "title": "La batalla de Argel"
-      },
-      {
-        "imdb": "tt0246765",
-        "title": "Lumumba"
       },
       {
         "imdb": "tt0468565",
@@ -6092,12 +5984,24 @@
         "title": "Timbuktu"
       },
       {
-        "imdb": "tt0416991",
-        "title": "Moolaadé"
+        "imdb": "tt0387131",
+        "title": "El jardinero fiel"
       },
       {
-        "imdb": "tt0424024",
-        "title": "La pesadilla de Darwin"
+        "imdb": "tt0089755",
+        "title": "Memorias de África"
+      },
+      {
+        "imdb": "tt0058777",
+        "title": "Zulú"
+      },
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
+      },
+      {
+        "imdb": "tt0246765",
+        "title": "Lumumba"
       },
       {
         "imdb": "tt2304771",
@@ -6108,20 +6012,64 @@
         "title": "Invictus"
       },
       {
-        "imdb": "tt2486682",
-        "title": "The Square (El Midan)"
-      },
-      {
         "imdb": "tt10199586",
         "title": "Atlantique"
       },
       {
-        "imdb": "tt0073915",
-        "title": "Xala"
+        "imdb": "tt10706602",
+        "title": "Collective"
       },
       {
-        "imdb": "tt0060758",
-        "title": "La noire de..."
+        "imdb": "tt8093700",
+        "title": "La mujer rey"
+      },
+      {
+        "imdb": "tt1825683",
+        "title": "Black Panther"
+      },
+      {
+        "imdb": "tt9114286",
+        "title": "Black Panther: Wakanda Forever"
+      },
+      {
+        "imdb": "tt17554188",
+        "title": "Kumbuka"
+      },
+      {
+        "imdb": "tt13846546",
+        "title": "Lingui: lazos sagrados"
+      },
+      {
+        "imdb": "tt8132778",
+        "title": "La noche de los reyes"
+      },
+      {
+        "imdb": "tt10365870",
+        "title": "Eyimofe"
+      },
+      {
+        "imdb": "tt8633462",
+        "title": "Quo Vadis, Aida?"
+      },
+      {
+        "imdb": "tt4761112",
+        "title": "The Mauritanian"
+      },
+      {
+        "imdb": "tt0238112",
+        "title": "La mandolina del capitán Corelli"
+      },
+      {
+        "imdb": "tt0116409",
+        "title": "Los demonios de la noche"
+      },
+      {
+        "imdb": "tt0080180",
+        "title": "Amanecer Zulú"
+      },
+      {
+        "imdb": "tt0240510",
+        "title": "Las cuatro plumas"
       }
     ],
     "rusia": [
@@ -6220,40 +6168,12 @@
         "title": "La linterna roja"
       },
       {
-        "imdb": "tt0099902",
-        "title": "Ju Dou: Semilla de crisantemo"
-      },
-      {
         "imdb": "tt5679696",
         "title": "Making of House of Flying Daggers"
       },
       {
         "imdb": "tt0106332",
         "title": "Adiós a mi concubina"
-      },
-      {
-        "imdb": "tt0111772",
-        "title": "新邊緣人"
-      },
-      {
-        "imdb": "tt0244316",
-        "title": "Yi Yi"
-      },
-      {
-        "imdb": "tt2852400",
-        "title": "Un toque de violencia"
-      },
-      {
-        "imdb": "tt0822066",
-        "title": "Marilyn Monroe: Still Life"
-      },
-      {
-        "imdb": "tt0258885",
-        "title": "站台"
-      },
-      {
-        "imdb": "tt0351299",
-        "title": "盲井"
       },
       {
         "imdb": "tt1205537",
@@ -6264,24 +6184,84 @@
         "title": "La Tierra Errante"
       },
       {
-        "imdb": "tt0092263",
-        "title": "Un mañana mejor"
+        "imdb": "tt13539646",
+        "title": "La Tierra Errante II"
       },
       {
-        "imdb": "tt0103285",
-        "title": "Érase una vez en China"
+        "imdb": "tt4566758",
+        "title": "Mulán"
+      },
+      {
+        "imdb": "tt2034800",
+        "title": "La Gran Muralla"
+      },
+      {
+        "imdb": "tt30575629",
+        "title": "封神外传之雷震子"
+      },
+      {
+        "imdb": "tt21148018",
+        "title": "La leyenda del río rojo"
+      },
+      {
+        "imdb": "tt11448076",
+        "title": "Cliff Walkers"
+      },
+      {
+        "imdb": "tt13462900",
+        "title": "La batalla del lago Changjin"
+      },
+      {
+        "imdb": "tt22165078",
+        "title": "Mondo Duplantis. Nacido para volar"
+      },
+      {
+        "imdb": "tt2852400",
+        "title": "Un toque de violencia"
       },
       {
         "imdb": "tt0338564",
         "title": "Juego sucio (Infernal Affairs)"
       },
       {
-        "imdb": "tt0209189",
-        "title": "Ni uno menos"
+        "imdb": "tt1220719",
+        "title": "Ip Man"
       },
       {
-        "imdb": "tt3740778",
-        "title": "Más Allá De Las Montañas"
+        "imdb": "tt1386932",
+        "title": "Ip Man 2"
+      },
+      {
+        "imdb": "tt2888046",
+        "title": "Ip Man 3"
+      },
+      {
+        "imdb": "tt2076298",
+        "title": "Ip Man 4: El final"
+      },
+      {
+        "imdb": "tt7131870",
+        "title": "Wolf Warrior 2"
+      },
+      {
+        "imdb": "tt6878882",
+        "title": "Operación Mar Rojo"
+      },
+      {
+        "imdb": "tt9283920",
+        "title": "The Rescue, equipo de rescate"
+      },
+      {
+        "imdb": "tt9586294",
+        "title": "Better Days"
+      },
+      {
+        "imdb": "tt10627720",
+        "title": "Ne Zha"
+      },
+      {
+        "imdb": "tt8637498",
+        "title": "El rey mono"
       }
     ],
     "conquista_oeste": [
@@ -8456,10 +8436,6 @@
         "title": "The Queen (La Reina)"
       },
       {
-        "imdb": "tt5456798",
-        "title": "Mythica 4: La corona de hierro"
-      },
-      {
         "imdb": "tt1504320",
         "title": "El discurso del rey"
       },
@@ -8484,28 +8460,20 @@
         "title": "La Reina Victoria y Abdul"
       },
       {
-        "imdb": "tt0110428",
-        "title": "La locura del rey Jorge"
-      },
-      {
         "imdb": "tt0962736",
         "title": "La reina Victoria"
+      },
+      {
+        "imdb": "tt0110428",
+        "title": "La locura del rey Jorge"
       },
       {
         "imdb": "tt0063227",
         "title": "El león en invierno"
       },
       {
-        "imdb": "tt0057877",
-        "title": "Becket"
-      },
-      {
         "imdb": "tt0097499",
         "title": "Enrique V"
-      },
-      {
-        "imdb": "tt0172495",
-        "title": "Gladiator"
       },
       {
         "imdb": "tt0112573",
@@ -8516,20 +8484,72 @@
         "title": "Napoleón"
       },
       {
-        "imdb": "tt0072684",
-        "title": "Barry Lyndon"
+        "imdb": "tt0172495",
+        "title": "Gladiator"
       },
       {
         "imdb": "tt0056937",
         "title": "Cleopatra"
       },
       {
-        "imdb": "tt0052618",
-        "title": "Ben-Hur"
+        "imdb": "tt4555426",
+        "title": "El instante más oscuro"
       },
       {
-        "imdb": "tt0054331",
-        "title": "Espartaco"
+        "imdb": "tt6679794",
+        "title": "El rey proscrito"
+      },
+      {
+        "imdb": "tt0110357",
+        "title": "El rey león"
+      },
+      {
+        "imdb": "tt5028340",
+        "title": "El regreso de Mary Poppins"
+      },
+      {
+        "imdb": "tt7846844",
+        "title": "Enola Holmes"
+      },
+      {
+        "imdb": "tt14641788",
+        "title": "Enola Holmes 2"
+      },
+      {
+        "imdb": "tt12536294",
+        "title": "Spencer"
+      },
+      {
+        "imdb": "tt6398184",
+        "title": "Downton Abbey"
+      },
+      {
+        "imdb": "tt11703710",
+        "title": "Downton Abbey: Una nueva era"
+      },
+      {
+        "imdb": "tt5456798",
+        "title": "Mythica 4: La corona de hierro"
+      },
+      {
+        "imdb": "tt11992694",
+        "title": "La emperatriz rebelde"
+      },
+      {
+        "imdb": "tt12758486",
+        "title": "Chevalier"
+      },
+      {
+        "imdb": "tt0467200",
+        "title": "Las hermanas Bolena"
+      },
+      {
+        "imdb": "tt0064030",
+        "title": "Ana de los mil días"
+      },
+      {
+        "imdb": "tt0490204",
+        "title": "En algún lugar de la memoria"
       }
     ],
     "resistencia_ocupacion": [
@@ -10032,32 +10052,40 @@
         "title": "Lawrence de Arabia"
       },
       {
-        "imdb": "tt0058777",
-        "title": "Zulú"
-      },
-      {
-        "imdb": "tt0089755",
-        "title": "Memorias de África"
-      },
-      {
         "imdb": "tt0083987",
         "title": "Gandhi"
+      },
+      {
+        "imdb": "tt0058777",
+        "title": "Zulú"
       },
       {
         "imdb": "tt0073341",
         "title": "El hombre que pudo reinar"
       },
       {
-        "imdb": "tt0060588",
-        "title": "Kartum"
+        "imdb": "tt4555426",
+        "title": "El instante más oscuro"
+      },
+      {
+        "imdb": "tt5013056",
+        "title": "Dunkerque"
+      },
+      {
+        "imdb": "tt8579674",
+        "title": "1917"
+      },
+      {
+        "imdb": "tt2084970",
+        "title": "The Imitation Game (Descifrando Enigma)"
+      },
+      {
+        "imdb": "tt1504320",
+        "title": "El discurso del rey"
       },
       {
         "imdb": "tt5816682",
         "title": "La Reina Victoria y Abdul"
-      },
-      {
-        "imdb": "tt4555426",
-        "title": "El instante más oscuro"
       },
       {
         "imdb": "tt0460989",
@@ -10076,36 +10104,68 @@
         "title": "Domingo sangriento"
       },
       {
-        "imdb": "tt0169102",
-        "title": "Lagaan: Érase una vez en la India"
+        "imdb": "tt2304771",
+        "title": "Mandela, del mito al hombre"
+      },
+      {
+        "imdb": "tt1057500",
+        "title": "Invictus"
       },
       {
         "imdb": "tt1010048",
         "title": "Slumdog Millionaire"
       },
       {
-        "imdb": "tt0034928",
-        "title": "El libro de la selva"
-      },
-      {
-        "imdb": "tt0042644",
-        "title": "Kim de la India"
-      },
-      {
-        "imdb": "tt0031398",
-        "title": "Gunga Din"
-      },
-      {
-        "imdb": "tt0027438",
-        "title": "La carga de la Brigada Ligera"
+        "imdb": "tt0169102",
+        "title": "Lagaan: Érase una vez en la India"
       },
       {
         "imdb": "tt0240510",
         "title": "Las cuatro plumas"
       },
       {
-        "imdb": "tt2304771",
-        "title": "Mandela, del mito al hombre"
+        "imdb": "tt0116409",
+        "title": "Los demonios de la noche"
+      },
+      {
+        "imdb": "tt0080180",
+        "title": "Amanecer Zulú"
+      },
+      {
+        "imdb": "tt0060588",
+        "title": "Kartum"
+      },
+      {
+        "imdb": "tt0062790",
+        "title": "La última carga"
+      },
+      {
+        "imdb": "tt0089755",
+        "title": "Memorias de África"
+      },
+      {
+        "imdb": "tt0450259",
+        "title": "Diamante de sangre"
+      },
+      {
+        "imdb": "tt0325710",
+        "title": "El último samurái"
+      },
+      {
+        "imdb": "tt3007512",
+        "title": "El maestro del agua"
+      },
+      {
+        "imdb": "tt0082432",
+        "title": "Gallipoli"
+      },
+      {
+        "imdb": "tt2328900",
+        "title": "María reina de Escocia"
+      },
+      {
+        "imdb": "tt6679794",
+        "title": "El rey proscrito"
       }
     ],
     "guerra_civil_usa": [
@@ -10126,10 +10186,6 @@
         "title": "Django desencadenado"
       },
       {
-        "imdb": "tt0031381",
-        "title": "Lo que el viento se llevó"
-      },
-      {
         "imdb": "tt0107007",
         "title": "Gettysburg"
       },
@@ -10146,60 +10202,40 @@
         "title": "Sin perdón"
       },
       {
-        "imdb": "tt0075029",
-        "title": "El fuera de la ley"
-      },
-      {
         "imdb": "tt0134154",
         "title": "Cabalga con el diablo"
-      },
-      {
-        "imdb": "tt0043961",
-        "title": "Medalla roja al valor"
-      },
-      {
-        "imdb": "tt0004972",
-        "title": "El nacimiento de una nación"
-      },
-      {
-        "imdb": "tt0059711",
-        "title": "El valle de la violencia"
-      },
-      {
-        "imdb": "tt0066819",
-        "title": "El seductor"
       },
       {
         "imdb": "tt0279111",
         "title": "Dioses y generales"
       },
       {
-        "imdb": "tt0049233",
-        "title": "La gran prueba"
+        "imdb": "tt4648786",
+        "title": "Harriet, en busca de la libertad"
       },
       {
-        "imdb": "tt0017925",
-        "title": "El maquinista de La General"
+        "imdb": "tt4196450",
+        "title": "El nacimiento de una nación"
       },
       {
-        "imdb": "tt0099348",
-        "title": "Bailando con lobos"
+        "imdb": "tt12530246",
+        "title": "Hacia la libertad"
       },
       {
-        "imdb": "tt0118607",
-        "title": "Amistad"
+        "imdb": "tt1020072",
+        "title": "Selma"
       },
       {
-        "imdb": "tt10696784",
-        "title": "Más dura será la caída"
+        "imdb": "tt7349662",
+        "title": "Infiltrado en el KKKlan"
+      },
+      {
+        "imdb": "tt9777644",
+        "title": "Da 5 Bloods: Hermanos de armas"
       },
       {
         "imdb": "tt9784798",
         "title": "Judas y el mesías negro"
-      },
-      {
-        "imdb": "tt8521718",
-        "title": "Los Estados Unidos contra Billie Holiday"
       },
       {
         "imdb": "tt10612922",
@@ -10210,28 +10246,40 @@
         "title": "La madre del blues"
       },
       {
-        "imdb": "tt9777644",
-        "title": "Da 5 Bloods: Hermanos de armas"
-      },
-      {
-        "imdb": "tt7349662",
-        "title": "Infiltrado en el KKKlan"
-      },
-      {
-        "imdb": "tt7125860",
-        "title": "El blues de Beale Street"
+        "imdb": "tt8521718",
+        "title": "Los Estados Unidos contra Billie Holiday"
       },
       {
         "imdb": "tt5301662",
         "title": "Marshall"
       },
       {
-        "imdb": "tt4648786",
-        "title": "Harriet, en busca de la libertad"
-      },
-      {
         "imdb": "tt10065694",
         "title": "Antebellum"
+      },
+      {
+        "imdb": "tt1403865",
+        "title": "Valor de ley"
+      },
+      {
+        "imdb": "tt1663202",
+        "title": "El renacido"
+      },
+      {
+        "imdb": "tt5478478",
+        "title": "Hostiles"
+      },
+      {
+        "imdb": "tt6878306",
+        "title": "Noticias del gran mundo"
+      },
+      {
+        "imdb": "tt10696784",
+        "title": "Más dura será la caída"
+      },
+      {
+        "imdb": "tt0099348",
+        "title": "Bailando con lobos"
       }
     ],
     "imperio_otomano": [
@@ -10248,28 +10296,16 @@
         "title": "La promesa"
       },
       {
-        "imdb": "tt0273435",
-        "title": "Ararat"
-      },
-      {
         "imdb": "tt0077928",
         "title": "El expreso de medianoche"
       },
       {
-        "imdb": "tt4943322",
-        "title": "El teniente otomano"
-      },
-      {
-        "imdb": "tt2758880",
-        "title": "Winter Sleep (Sueño de invierno)"
+        "imdb": "tt3007512",
+        "title": "El maestro del agua"
       },
       {
         "imdb": "tt3170902",
         "title": "Lobo"
-      },
-      {
-        "imdb": "tt0084934",
-        "title": "El camino"
       },
       {
         "imdb": "tt1255953",
@@ -10280,32 +10316,72 @@
         "title": "En tierra de nadie"
       },
       {
-        "imdb": "tt0110882",
-        "title": "Antes de la lluvia"
-      },
-      {
-        "imdb": "tt0114787",
-        "title": "Underground"
-      },
-      {
         "imdb": "tt8633462",
         "title": "Quo Vadis, Aida?"
       },
       {
-        "imdb": "tt0464029",
-        "title": "Grbavica: El secreto de Esma"
-      },
-      {
-        "imdb": "tt1714209",
-        "title": "En tierra de sangre y miel"
-      },
-      {
-        "imdb": "tt3007512",
-        "title": "El maestro del agua"
-      },
-      {
         "imdb": "tt0320661",
         "title": "El reino de los cielos"
+      },
+      {
+        "imdb": "tt4943322",
+        "title": "El teniente otomano"
+      },
+      {
+        "imdb": "tt2758880",
+        "title": "Winter Sleep (Sueño de invierno)"
+      },
+      {
+        "imdb": "tt13231544",
+        "title": "Sobre la hierba seca"
+      },
+      {
+        "imdb": "tt10688008",
+        "title": "Making of The Wild Pear Tree"
+      },
+      {
+        "imdb": "tt3966404",
+        "title": "Mustang"
+      },
+      {
+        "imdb": "tt6316138",
+        "title": "Ayla, la hija de la guerra"
+      },
+      {
+        "imdb": "tt1605783",
+        "title": "Midnight in Paris"
+      },
+      {
+        "imdb": "tt0887912",
+        "title": "En tierra hostil"
+      },
+      {
+        "imdb": "tt1790885",
+        "title": "La noche más oscura"
+      },
+      {
+        "imdb": "tt1024648",
+        "title": "Argo"
+      },
+      {
+        "imdb": "tt0408306",
+        "title": "Munich"
+      },
+      {
+        "imdb": "tt1528100",
+        "title": "Exodus: Dioses y reyes"
+      },
+      {
+        "imdb": "tt3231054",
+        "title": "Resucitado"
+      },
+      {
+        "imdb": "tt2638144",
+        "title": "Ben-Hur"
+      },
+      {
+        "imdb": "tt1921064",
+        "title": "Pompeya"
       }
     ],
     "reconquista": [
@@ -10320,14 +10396,6 @@
       {
         "imdb": "tt0395119",
         "title": "Alatriste"
-      },
-      {
-        "imdb": "tt0091605",
-        "title": "El nombre de la rosa"
-      },
-      {
-        "imdb": "tt0055601",
-        "title": "Viridiana"
       },
       {
         "imdb": "tt0457430",
@@ -10386,22 +10454,62 @@
         "title": "Volver"
       },
       {
+        "imdb": "tt0185125",
+        "title": "Todo sobre mi madre"
+      },
+      {
+        "imdb": "tt0287467",
+        "title": "Hable con ella"
+      },
+      {
+        "imdb": "tt0913425",
+        "title": "Los abrazos rotos"
+      },
+      {
+        "imdb": "tt1189073",
+        "title": "La piel que habito"
+      },
+      {
         "imdb": "tt3416532",
         "title": "Un monstruo viene a verme"
       },
       {
+        "imdb": "tt3754940",
+        "title": "Truman"
+      },
+      {
         "imdb": "tt1649419",
         "title": "Lo imposible"
+      },
+      {
+        "imdb": "tt15006566",
+        "title": "As bestas"
+      },
+      {
+        "imdb": "tt11930126",
+        "title": "Alcarràs"
+      },
+      {
+        "imdb": "tt13066182",
+        "title": "El buen patrón"
+      },
+      {
+        "imdb": "tt15128358",
+        "title": "Modelo 77"
+      },
+      {
+        "imdb": "tt13429870",
+        "title": "Robot Dreams"
       }
     ],
     "descolonizacion": [
       {
-        "imdb": "tt0058946",
-        "title": "La batalla de Argel"
-      },
-      {
         "imdb": "tt0083987",
         "title": "Gandhi"
+      },
+      {
+        "imdb": "tt0058946",
+        "title": "La batalla de Argel"
       },
       {
         "imdb": "tt0395169",
@@ -10452,18 +10560,6 @@
         "title": "Рассказ о фильме «Иди и смотри»"
       },
       {
-        "imdb": "tt0073915",
-        "title": "Xala"
-      },
-      {
-        "imdb": "tt0416991",
-        "title": "Moolaadé"
-      },
-      {
-        "imdb": "tt3409392",
-        "title": "Timbuktu"
-      },
-      {
         "imdb": "tt0252444",
         "title": "Generación robada"
       },
@@ -10474,6 +10570,58 @@
       {
         "imdb": "tt0104507",
         "title": "Indochina"
+      },
+      {
+        "imdb": "tt8093700",
+        "title": "La mujer rey"
+      },
+      {
+        "imdb": "tt2304771",
+        "title": "Mandela, del mito al hombre"
+      },
+      {
+        "imdb": "tt1057500",
+        "title": "Invictus"
+      },
+      {
+        "imdb": "tt1365050",
+        "title": "Beasts of No Nation"
+      },
+      {
+        "imdb": "tt3409392",
+        "title": "Timbuktu"
+      },
+      {
+        "imdb": "tt13846546",
+        "title": "Lingui: lazos sagrados"
+      },
+      {
+        "imdb": "tt8132778",
+        "title": "La noche de los reyes"
+      },
+      {
+        "imdb": "tt8633462",
+        "title": "Quo Vadis, Aida?"
+      },
+      {
+        "imdb": "tt15301048",
+        "title": "Argentina 1985"
+      },
+      {
+        "imdb": "tt4761112",
+        "title": "The Mauritanian"
+      },
+      {
+        "imdb": "tt8430054",
+        "title": "Flee"
+      },
+      {
+        "imdb": "tt8745676",
+        "title": "Las nadadoras"
+      },
+      {
+        "imdb": "tt21113540",
+        "title": "El Conde"
       }
     ],
     "bergman": [
@@ -12230,32 +12378,8 @@
         "title": "Pretty Woman"
       },
       {
-        "imdb": "tt0109831",
-        "title": "Cuatro bodas y un funeral"
-      },
-      {
-        "imdb": "tt0108160",
-        "title": "Algo para recordar"
-      },
-      {
-        "imdb": "tt0128853",
-        "title": "Tienes un e-mail"
-      },
-      {
-        "imdb": "tt0098635",
-        "title": "Cuando Harry encontró a Sally"
-      },
-      {
         "imdb": "tt0332280",
         "title": "El diario de Noa"
-      },
-      {
-        "imdb": "tt0281358",
-        "title": "Un paseo para recordar"
-      },
-      {
-        "imdb": "tt1570728",
-        "title": "Crazy, Stupid, Love."
       },
       {
         "imdb": "tt3783958",
@@ -12290,8 +12414,28 @@
         "title": "Orgullo y prejuicio"
       },
       {
-        "imdb": "tt0114388",
-        "title": "Sentido y sensibilidad"
+        "imdb": "tt1570728",
+        "title": "Crazy, Stupid, Love."
+      },
+      {
+        "imdb": "tt2582846",
+        "title": "Bajo la misma estrella"
+      },
+      {
+        "imdb": "tt2674426",
+        "title": "Antes de ti"
+      },
+      {
+        "imdb": "tt6472976",
+        "title": "A dos metros de ti"
+      },
+      {
+        "imdb": "tt13238346",
+        "title": "Vidas pasadas"
+      },
+      {
+        "imdb": "tt19770238",
+        "title": "Aftersun"
       },
       {
         "imdb": "tt7653254",
@@ -12314,22 +12458,6 @@
         "title": "Her"
       },
       {
-        "imdb": "tt1659337",
-        "title": "Las ventajas de ser un marginado"
-      },
-      {
-        "imdb": "tt3281548",
-        "title": "Mujercitas"
-      },
-      {
-        "imdb": "tt0795421",
-        "title": "Mamma Mia! La película"
-      },
-      {
-        "imdb": "tt6911608",
-        "title": "Mamma Mia! Una y otra vez"
-      },
-      {
         "imdb": "tt2194499",
         "title": "Una cuestión de tiempo"
       },
@@ -12338,28 +12466,44 @@
         "title": "Siempre el mismo día"
       },
       {
-        "imdb": "tt2582846",
-        "title": "Bajo la misma estrella"
+        "imdb": "tt1606389",
+        "title": "Todos los días de mi vida"
       },
       {
-        "imdb": "tt0431308",
-        "title": "Posdata: Te quiero"
+        "imdb": "tt1702439",
+        "title": "Un lugar donde refugiarse"
       },
       {
-        "imdb": "tt2674426",
-        "title": "Antes de ti"
+        "imdb": "tt3846674",
+        "title": "A todos los chicos de los que me enamoré"
       },
       {
-        "imdb": "tt6472976",
-        "title": "A dos metros de ti"
+        "imdb": "tt9354842",
+        "title": "A todos los chicos: P.D. Todavía te quiero"
       },
       {
-        "imdb": "tt13238346",
-        "title": "Vidas pasadas"
+        "imdb": "tt9683478",
+        "title": "Conquista a medias"
       },
       {
-        "imdb": "tt19770238",
-        "title": "Aftersun"
+        "imdb": "tt9484998",
+        "title": "Palm Springs"
+      },
+      {
+        "imdb": "tt6462958",
+        "title": "Quiero que vuelvas"
+      },
+      {
+        "imdb": "tt14109724",
+        "title": "Viaje al paraíso"
+      },
+      {
+        "imdb": "tt26047818",
+        "title": "Cualquiera menos tú"
+      },
+      {
+        "imdb": "tt3281548",
+        "title": "Mujercitas"
       }
     ],
     "alba_comedia_thriller": [
@@ -15344,20 +15488,12 @@
         "title": "Up"
       },
       {
-        "imdb": "tt0108052",
-        "title": "La lista de Schindler"
-      },
-      {
         "imdb": "tt0120689",
         "title": "La milla verde"
       },
       {
         "imdb": "tt3416532",
         "title": "Un monstruo viene a verme"
-      },
-      {
-        "imdb": "tt0102492",
-        "title": "Mi chica"
       },
       {
         "imdb": "tt2582846",
@@ -15378,10 +15514,6 @@
       {
         "imdb": "tt0431308",
         "title": "Posdata: Te quiero"
-      },
-      {
-        "imdb": "tt1150947",
-        "title": "Lovely, Still"
       },
       {
         "imdb": "tt0452694",
@@ -15420,138 +15552,174 @@
         "title": "El padre"
       },
       {
-        "imdb": "tt0081283",
-        "title": "Gente corriente"
+        "imdb": "tt0451279",
+        "title": "Wonder Woman"
       },
       {
-        "imdb": "tt0086425",
-        "title": "La fuerza del cariño"
+        "imdb": "tt3741834",
+        "title": "Lion"
       },
       {
-        "imdb": "tt0098384",
-        "title": "Magnolias de acero"
+        "imdb": "tt1606389",
+        "title": "Todos los días de mi vida"
       },
       {
-        "imdb": "tt0094715",
-        "title": "Eternamente amigas"
+        "imdb": "tt1702439",
+        "title": "Un lugar donde refugiarse"
       },
       {
-        "imdb": "tt0099653",
-        "title": "Ghost (Más allá del amor)"
+        "imdb": "tt1972779",
+        "title": "Lo mejor de mí"
+      },
+      {
+        "imdb": "tt4682786",
+        "title": "Belleza oculta"
+      },
+      {
+        "imdb": "tt10362466",
+        "title": "After: En mil pedazos"
+      },
+      {
+        "imdb": "tt3907584",
+        "title": "Violet y Finch"
+      },
+      {
+        "imdb": "tt8045906",
+        "title": "Palabras en las paredes del baño"
+      },
+      {
+        "imdb": "tt2222052",
+        "title": "Sueños de una escritora en Nueva York"
+      },
+      {
+        "imdb": "tt11080108",
+        "title": "El mapa de las pequeñas cosas perfectas"
+      },
+      {
+        "imdb": "tt1893273",
+        "title": "La última carta de amor"
       }
     ],
     "alba_clasicos": [
       {
-        "imdb": "tt0034583",
-        "title": "Casablanca"
+        "imdb": "tt0125439",
+        "title": "Notting Hill"
       },
       {
-        "imdb": "tt0046250",
-        "title": "Vacaciones en Roma"
+        "imdb": "tt0100405",
+        "title": "Pretty Woman"
       },
       {
-        "imdb": "tt0054698",
-        "title": "Desayuno con diamantes"
+        "imdb": "tt0108160",
+        "title": "Algo para recordar"
       },
       {
-        "imdb": "tt0047437",
-        "title": "Sabrina"
-      },
-      {
-        "imdb": "tt0050419",
-        "title": "Una cara con ángel"
-      },
-      {
-        "imdb": "tt0050105",
-        "title": "Tú y yo"
-      },
-      {
-        "imdb": "tt0047396",
-        "title": "La ventana indiscreta"
-      },
-      {
-        "imdb": "tt0052357",
-        "title": "Vértigo (De entre los muertos)"
-      },
-      {
-        "imdb": "tt0056923",
-        "title": "Charada"
-      },
-      {
-        "imdb": "tt0058385",
-        "title": "My Fair Lady (Mi bella dama)"
-      },
-      {
-        "imdb": "tt0059742",
-        "title": "Sonrisas y lágrimas"
-      },
-      {
-        "imdb": "tt0031381",
-        "title": "Lo que el viento se llevó"
-      },
-      {
-        "imdb": "tt0032976",
-        "title": "Rebeca"
-      },
-      {
-        "imdb": "tt0042192",
-        "title": "Eva al desnudo"
-      },
-      {
-        "imdb": "tt0043014",
-        "title": "El crepúsculo de los dioses"
-      },
-      {
-        "imdb": "tt0053291",
-        "title": "Con faldas y a lo loco"
-      },
-      {
-        "imdb": "tt0060522",
-        "title": "Cómo robar un millón y..."
-      },
-      {
-        "imdb": "tt0062407",
-        "title": "Dos en la carretera"
-      },
-      {
-        "imdb": "tt0062994",
-        "title": "Una chica divertida (Funny Girl)"
-      },
-      {
-        "imdb": "tt0068327",
-        "title": "Cabaret"
-      },
-      {
-        "imdb": "tt0070903",
-        "title": "Tal como éramos"
-      },
-      {
-        "imdb": "tt0075686",
-        "title": "Annie Hall"
-      },
-      {
-        "imdb": "tt0079417",
-        "title": "Kramer contra Kramer"
-      },
-      {
-        "imdb": "tt0081283",
-        "title": "Gente corriente"
-      },
-      {
-        "imdb": "tt0086425",
-        "title": "La fuerza del cariño"
-      },
-      {
-        "imdb": "tt0089755",
-        "title": "Memorias de África"
-      },
-      {
-        "imdb": "tt0093565",
-        "title": "Hechizo de luna"
+        "imdb": "tt0128853",
+        "title": "Tienes un e-mail"
       },
       {
         "imdb": "tt0098635",
         "title": "Cuando Harry encontró a Sally"
+      },
+      {
+        "imdb": "tt0119738",
+        "title": "La boda de mi mejor amigo"
+      },
+      {
+        "imdb": "tt0109831",
+        "title": "Cuatro bodas y un funeral"
+      },
+      {
+        "imdb": "tt0243155",
+        "title": "El diario de Bridget Jones"
+      },
+      {
+        "imdb": "tt0276751",
+        "title": "Un niño grande"
+      },
+      {
+        "imdb": "tt0314331",
+        "title": "Love Actually"
+      },
+      {
+        "imdb": "tt0386588",
+        "title": "Hitch: Especialista en ligues"
+      },
+      {
+        "imdb": "tt1041829",
+        "title": "La proposición"
+      },
+      {
+        "imdb": "tt0251127",
+        "title": "Cómo perder a un chico en 10 días"
+      },
+      {
+        "imdb": "tt0250494",
+        "title": "Una rubia muy legal"
+      },
+      {
+        "imdb": "tt0112697",
+        "title": "Clueless (Fuera de onda)"
+      },
+      {
+        "imdb": "tt0147800",
+        "title": "10 razones para odiarte"
+      },
+      {
+        "imdb": "tt0377092",
+        "title": "Chicas malas"
+      },
+      {
+        "imdb": "tt0458352",
+        "title": "El diablo viste de Prada"
+      },
+      {
+        "imdb": "tt0795421",
+        "title": "Mamma Mia! La película"
+      },
+      {
+        "imdb": "tt0988595",
+        "title": "27 vestidos"
+      },
+      {
+        "imdb": "tt0457939",
+        "title": "The Holiday (Vacaciones)"
+      },
+      {
+        "imdb": "tt0461770",
+        "title": "Encantada: La historia de Giselle"
+      },
+      {
+        "imdb": "tt1093908",
+        "title": "Confesiones de una compradora compulsiva"
+      },
+      {
+        "imdb": "tt1001508",
+        "title": "Qué les pasa a los hombres"
+      },
+      {
+        "imdb": "tt1135503",
+        "title": "Julie y Julia"
+      },
+      {
+        "imdb": "tt0892318",
+        "title": "Cartas a Julieta"
+      },
+      {
+        "imdb": "tt0879870",
+        "title": "Come, reza, ama"
+      },
+      {
+        "imdb": "tt0491152",
+        "title": "Algo prestado"
+      },
+      {
+        "imdb": "tt1570728",
+        "title": "Crazy, Stupid, Love."
+      },
+      {
+        "imdb": "tt1632708",
+        "title": "Con derecho a roce"
       }
     ],
     "alba_epoca": [
@@ -15574,14 +15742,6 @@
       {
         "imdb": "tt13456318",
         "title": "Persuasión"
-      },
-      {
-        "imdb": "tt5456798",
-        "title": "Mythica 4: La corona de hierro"
-      },
-      {
-        "imdb": "tt5078214",
-        "title": "Los casos de Victoria"
       },
       {
         "imdb": "tt6398184",
@@ -15616,10 +15776,6 @@
         "title": "Retrato de una mujer en llamas"
       },
       {
-        "imdb": "tt6823148",
-        "title": "Benedetta"
-      },
-      {
         "imdb": "tt0864761",
         "title": "La duquesa"
       },
@@ -15640,20 +15796,44 @@
         "title": "Jane Eyre"
       },
       {
-        "imdb": "tt1181614",
-        "title": "Cumbres borrascosas"
-      },
-      {
-        "imdb": "tt0080009",
-        "title": "Tess"
-      },
-      {
         "imdb": "tt1174732",
         "title": "An Education"
       },
       {
         "imdb": "tt0810784",
         "title": "Bright Star"
+      },
+      {
+        "imdb": "tt1661199",
+        "title": "Cenicienta"
+      },
+      {
+        "imdb": "tt2771200",
+        "title": "La bella y la bestia"
+      },
+      {
+        "imdb": "tt1587310",
+        "title": "Maléfica"
+      },
+      {
+        "imdb": "tt4777008",
+        "title": "Maléfica: Maestra del mal"
+      },
+      {
+        "imdb": "tt5028340",
+        "title": "El regreso de Mary Poppins"
+      },
+      {
+        "imdb": "tt7846844",
+        "title": "Enola Holmes"
+      },
+      {
+        "imdb": "tt14641788",
+        "title": "Enola Holmes 2"
+      },
+      {
+        "imdb": "tt5456798",
+        "title": "Mythica 4: La corona de hierro"
       }
     ],
     "alba_comedias_europeas": [
@@ -15670,12 +15850,12 @@
         "title": "Mi gran boda griega"
       },
       {
-        "imdb": "tt1064932",
-        "title": "Bienvenidos al Norte"
+        "imdb": "tt3760922",
+        "title": "Mi gran boda griega 2"
       },
       {
-        "imdb": "tt2179121",
-        "title": "El nombre"
+        "imdb": "tt21103300",
+        "title": "Mi gran boda griega 3"
       },
       {
         "imdb": "tt0119164",
@@ -15706,6 +15886,14 @@
         "title": "El diario de Bridget Jones"
       },
       {
+        "imdb": "tt0317198",
+        "title": "Bridget Jones: Sobreviviré"
+      },
+      {
+        "imdb": "tt1473832",
+        "title": "Bridget Jones's Baby"
+      },
+      {
         "imdb": "tt0276751",
         "title": "Un niño grande"
       },
@@ -15734,40 +15922,40 @@
         "title": "El exótico Hotel Marigold"
       },
       {
-        "imdb": "tt0120857",
-        "title": "Té con Mussolini"
+        "imdb": "tt2555736",
+        "title": "El nuevo exótico hotel Marigold"
       },
       {
-        "imdb": "tt0328589",
-        "title": "Bajo el sol de la Toscana"
+        "imdb": "tt14109724",
+        "title": "Viaje al paraíso"
       },
       {
-        "imdb": "tt0323332",
-        "title": "Mi casa en Umbria"
+        "imdb": "tt8079248",
+        "title": "Yesterday"
       },
       {
-        "imdb": "tt0238112",
-        "title": "La mandolina del capitán Corelli"
+        "imdb": "tt13352968",
+        "title": "Buena suerte, Leo Grande"
       },
       {
-        "imdb": "tt0098319",
-        "title": "Shirley Valentine"
+        "imdb": "tt1648186",
+        "title": "Fisherman's Friends (Música a bordo)"
       },
       {
-        "imdb": "tt0095675",
-        "title": "Mujeres al borde de un ataque de nervios"
+        "imdb": "tt8951692",
+        "title": "¡Que suene la música!"
       },
       {
-        "imdb": "tt0441909",
-        "title": "Volver"
+        "imdb": "tt13405810",
+        "title": "La reina de los concursos"
       },
       {
-        "imdb": "tt0103791",
-        "title": "Belle Époque"
+        "imdb": "tt14826022",
+        "title": "La gente como vosotros"
       },
       {
-        "imdb": "tt0096283",
-        "title": "Mi vecino Totoro"
+        "imdb": "tt26047818",
+        "title": "Cualquiera menos tú"
       }
     ],
     "alba_protagonistas_femeninas": [
